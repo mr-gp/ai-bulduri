@@ -1,4 +1,4 @@
-## 🧩 5. uzdevums – Informācijas meklēšana ar AI
+## 🧩 5. uzdevums – Informācijas meklēšana ar MI
 
 ### 🎯 Mērķis
 Iemācīties:
@@ -10,7 +10,7 @@ Iemācīties:
 
 ## 1. daļa – īsa meklēšanas frāze (piemērs)
 
-Ievadi AI rīkā (ChatGPT / Gemini u.c.):
+Ievadi MI rīkā (ChatGPT / Gemini u.c.) meklējamo frāzi, piemēram:
 
 > Pozitīvi notikumi Apvienotajā Karalistē pēdējā gada laikā ar avotiem
 
@@ -43,7 +43,7 @@ Noteikumi:
 3. Izvēlies **Continue with Google**
 4. Autorizējies ar Google kontu
 5. Ievadi **to pašu meklēšanas frāzi**
-6. Salīdzini rezultātu ar iepriekšējo AI rīku
+6. Salīdzini rezultātu ar iepriekšējo MI rīku
 
 Pievērs uzmanību:
 - kā tiek parādīti avoti,
@@ -57,3 +57,8 @@ Kas vairāk ietekmē rezultātu?
 - izmantotais rīks  
 vai  
 - tas, **kā tu noformulēji meklēšanas frāzi**?
+
+### Kuram informācijas meklēšanas rīkam tu iedotu priekšroku un kāpēc?
+- Google
+- Gemini (vai ChatGPT)
+- Perplexity AI
