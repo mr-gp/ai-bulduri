@@ -89,7 +89,7 @@ Atbildi sev:
 - Kas mani pārsteidza?
 - Ko es varētu pajautāt citādi, lai atbilde būtu vēl precīzāka?
 
-## 6) Spēle: “Ikdienas dilemmu treniņš” (3 raundi)
+## 6) Spēle: “Matemātikas treniņš” (3 raundi)
 ```text
 Tu esi mans draudzīgais spēles partneris.
 Noteikumi:
