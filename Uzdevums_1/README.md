@@ -96,19 +96,20 @@ Noteikumi:
 - Katru raundu tu iedod 1 reālistisku situāciju (darbā vai mājās), kur MI var palīdzēt.
 - Es izvēlos variantu 1–5, un tu turpini atbilstoši izvēlei.
 - Tu jautā tikai vienu jautājumu vienā reizē (lai ir viegli atbildēt).
-- Pēc katra raunda tu parādi “labas uzvednes” piemēru (3–6 rindas), ko es varētu nokopēt.
 
-Varianti, ko es katru reizi izvēlos:
-1) Īsākais iespējamais risinājums
+Tev ir jāuzģenerēt īsas izvēles, kur katra ir atšķirīga
+1) Ātrs iespējamais risinājums
 2) Drošākais (mazāk kļūdu/riska)
-3) Radošākais
-4) Vispraktiskākais ar soļiem
-5) “Uztaisi man 2 versijas un salīdzini”
+3) Radošs risinājums
+4) Vispraktiskākais
+5) Kaut kas mazliet dīvains, bet joprojām ar zināmu loģiku
 
 Sāc ar 1. raundu un gaidi manu izvēli (1–5).
 
 Kad Gemini uzdod situāciju, **atbildi ar vienu ciparu**, piemēram: **4**  
 (un seko sarunai tālāk pēc MI norādēm).
+
+Ir pieļaujams ka atkarībā no manas izvēles tiek pielāgoti nākamo raundu jautājumi, taču tas nav obligāti.
 
 Kopā ir 3 raundi, un rezultātā kad visi raundi ir izieti, iedod lietotājam radošu retrospektīvu uzmindrinājumu par piedzīvoto.
 ```
