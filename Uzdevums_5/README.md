@@ -1,0 +1,59 @@
+## 🧩 5. uzdevums – Informācijas meklēšana ar AI
+
+### 🎯 Mērķis
+Iemācīties:
+- meklēt informāciju ar īsām, dabiskām frāzēm,
+- saņemt rezultātus **ar avotu saitēm**,
+- salīdzināt dažādus AI meklēšanas rīkus.
+
+---
+
+## 1. daļa – īsa meklēšanas frāze (piemērs)
+
+Ievadi AI rīkā (ChatGPT / Gemini u.c.):
+
+> Pozitīvi notikumi Apvienotajā Karalistē pēdējā gada laikā ar avotiem
+
+Pievērs uzmanību:
+- vai tiek minēti konkrēti notikumi,
+- vai ir pievienotas reālas saites,
+- vai informāciju var pārbaudīt.
+
+---
+
+## 2. daļa – savs meklēšanas scenārijs
+
+Izveido **savu īso meklēšanas frāzi**, piemēram:
+- AI tendences izglītībā ar avotiem
+- Pozitīvas tehnoloģiju ziņas Eiropā
+- Vides iniciatīvas Latvijā ar saitēm
+- Digitalizācijas piemēri valsts sektorā
+
+Noteikumi:
+- frāze īsa (1 teikums),
+- bez paskaidrojumiem,
+- pieprasi avotus (piem., *ar avotiem*, *ar saitēm*).
+
+---
+
+## 🔍 Papildu uzdevums – Perplexity.ai
+
+1. Atver https://www.perplexity.ai  
+2. Spied **Sign in**
+3. Izvēlies **Continue with Google**
+4. Autorizējies ar Google kontu
+5. Ievadi **to pašu meklēšanas frāzi**
+6. Salīdzini rezultātu ar iepriekšējo AI rīku
+
+Pievērs uzmanību:
+- kā tiek parādīti avoti,
+- cik viegli ir atvērt un pārbaudīt saites,
+- kurš rīks vairāk atgādina “gudru Google”.
+
+---
+
+### 💬 Jautājums pārdomām
+Kas vairāk ietekmē rezultātu?
+- izmantotais rīks  
+vai  
+- tas, **kā tu noformulēji meklēšanas frāzi**?
