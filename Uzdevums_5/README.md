@@ -22,6 +22,16 @@ Pievērs uzmanību:
 
 ---
 
+## 🧠 Par informācijas avotiem (URL)
+
+Strādājot ar AI informācijas meklēšanu, ir vērts **vienreiz globālajās instrukcijās**
+(piemēram, rīka iestatījumos vai projekta sākumā) norādīt šo principu:
+
+> Ja iespējams, vienmēr pievieno informācijas avotus (URL saites),
+> īpaši, ja sniedz faktus, notikumus vai apgalvojumus.
+
+---
+
 ## 2. daļa – savs meklēšanas scenārijs
 
 Izveido **savu īso meklēšanas frāzi**, piemēram:
