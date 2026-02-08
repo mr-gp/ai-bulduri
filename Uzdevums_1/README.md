@@ -1,6 +1,8 @@
 # Uzdevums 1 — Iepazīšanās ar Google Gemini (saruna ar MI)
 
-**Mērķis:** iemācīties sākt sarunu ar MI, turpināt to ar precizējumiem un izmēģināt interaktīvu mini-spēli.
+**Mērķi:**
+- Iemācīties sākt sarunu ar MI, turpināt to ar precizējumiem un izmēģināt interaktīvu mini-spēli.
+- Iemācīties instrukciju un norādījumu lomu sadarbībā ar MI.
 
 ---
 
