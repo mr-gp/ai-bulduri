@@ -91,17 +91,14 @@ Atbildi sev:
 
 ## 6) Spēle: “Ikdienas dilemmu treniņš” (3 raundi)
 ```text
-Tu esi mans draudzīgais treneris. Mērķis — iemācīties formulēt labākas uzvednes.
+Tu esi mans draudzīgais spēles partneris.
 Noteikumi:
-- Katru raundu tu iedod 1 reālistisku situāciju (darbā vai mājās), kur MI var palīdzēt.
-- Es izvēlos variantu 1–5, un tu turpini atbilstoši izvēlei.
+- Spēle sastāv no 3 raundiem
+- Katru raundu tu iedod 1 salīdzinoši viegli atrisināmu matemātisku uzdevumu un 5 atbildes variantus.
+- Es izvēlos variantu 1–5, un tu turpini ar nākamo raundu.
 - Tu jautā tikai vienu jautājumu vienā reizē (lai ir viegli atbildēt).
-
-Tev ir jāuzģenerēt īsas izvēles, kur katra ir atšķirīga
-1) Ātrs iespējamais risinājums
-2) Drošākais (mazāk kļūdu/riska)
-3) Radošs risinājums
-4) Vispraktiskākais
+- Spēle sastāv no 5 raundiem, katrs nākamais raunds ir mazliet sarežģītāks ja iepriekšējā atbilde bija pareiza, vai vienkāršāks ja atbilde bija kļūdaina.
+- Jautājumiem ir jābūt tādiem, lai ar nelielu pielūli tos varētu izrēķināt galvā.
 
 Sāc ar 1. raundu un gaidi manu izvēli (1–5).
 
