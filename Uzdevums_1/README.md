@@ -57,7 +57,7 @@ Lūdzu:
 2) Katram variantam: sastāvdaļas ar aptuveniem daudzumiem, soļi, kopējais laiks.
 3) Pielāgo garšvielas “latviskai gaumei” (nepārspīlē ar eksotiku).
 4) Beigās iedod 1 īsu padomu, kā nākamreiz uzlabot rezultātu.
-Raksti latviski, vienkārši un strukturēti.
+Raksti latviski, vienkārši un strukturēti.```
 
 ### Tālāk
 
