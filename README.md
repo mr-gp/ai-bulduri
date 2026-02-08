@@ -26,6 +26,12 @@ Repozitorijs ir strukturēts pa tēmām, sekojot apmācību loģikai:
 
 ---
 
+## Prezentācijas
+
+- 📘 [Par autoru](https://gamma.app/docs/1-Par-mani-7t64wkr14feys6j?mode=doc)
+
+---
+
 ## 🛠 Kā strādāt ar uzdevumiem
 
 1. Atver konkrēto mapi
