@@ -62,14 +62,48 @@ Izvēlies sev interesējošas detaļas un brīvi tās ieraskti promptā aizstāj
 
 Šajā daļā redzēsim, kā MI strādā ar **attēlu kā ievaddatiem**.
 
-### Instrukcija
-1. Pasniedzējs parāda piemēra foto (bērni ziemā, sniegs, ledus).
+Perfekti, sapratu 👍
+Te ir **gatavs Markdown fragments**, precīzi tam gadījumam, ko apraksti:
+
+* atsauce uz `snow.jpg`, kas atrodas **turpat, kur README**
+* papildus apakšpunkts par **lietotāja paša ģenerētu attēlu Ice Age tēmai**
+
+Vari šo **iekopēt 1:1** savā README.
+
+---
+
+### 4.3.1. Izmantosim attēlu no repozitorija  
+   Attēls atrodas šaipaša GitHub direktorijā [snow.jpg](snow.jpg)
+
+### 4.3.2. Izmanto šo attēlu kā pamatu attēlu rediģēšanai vai stila maiņai, 
+pievienojot **Ice Age multfilmas varoņus** (piemēram, Sid, Manny, Diego), 
+saglabājot oriģinālā attēla perspektīvu, apgaismojumu un noskaņu.
+
+vai
+
+### 4.3.3. Papildu uzdevums (ieteicams)  
+Lietotājs var **uzģenerēt arī pats savu attēlu**, kas būtu piemērots *Ice Age* tēmai, piemēram:
+- ziemas ainava,
+- sniegs, ledus, aisbergi,
+- auksts klimats,
+- plašas dabas ainavas,
+- kāda persona pēc izvēles.
+
+Šo paša ģenerēto attēlu var izmantot kā pamatu turpmākai attēlu rediģēšanai un stila eksperimentiem.
+
+---
+
 2. Izmanto zemāk esošo promptu kopā ar šo attēlu.
 
 ### Gatavais prompts (copy–paste)
 ```
-
-Using the uploaded photo as a base, recreate the scene by adding Ice Age movie characters (Sid, Manny, Diego) interacting naturally with the children, same lighting and perspective, cartoon style matching Ice Age animation, joyful winter mood, high quality illustration
+Izmantojot augšupielādēto fotoattēlu kā pamatu, atjauno ainu, 
+pievienojot Ice Age multfilmas varoņus (Sid, Manny, Diego), 
+kas dabiski mijiedarbojas ar bērniem, 
+saglabā to pašu apgaismojumu un perspektīvu, 
+multfilmas stilu, kas atbilst Ice Age animācijai, 
+priecīgu ziemas noskaņu, 
+augstas kvalitātes ilustrāciju.
 
 ```
 
@@ -84,6 +118,8 @@ Using the uploaded photo as a base, recreate the scene by adding Ice Age movie c
 ### Uzdevums
 - Atrodi internetā **jebkuru fotogrāfiju**  
   **vai**
+- Uzģenerē **pats savu fotogrāfiju**
+  **vai** 
 - Izmanto **savu foto** (ja vēlies)
 
 Izveido **savu promptu**, kas:
@@ -91,16 +127,19 @@ Izveido **savu promptu**, kas:
 - maina stilu vai noskaņu,
 - saglabā sākotnējā attēla loģiku.
 
-### Ieteikums prompta struktūrai
+### Piemērs uzvednes struktūrai
 ```
-
-Using the uploaded image as a base, transform the scene by adding [jaunie elementi], keeping the original perspective and lighting, in [izvēlētais stils], with [noskaņa], high quality, detailed illustration
-
+Izmantojot augšupielādēto attēlu kā pamatu, pārveido ainu,
+pievienojot [jaunie elementi],
+saglabājot oriģinālo perspektīvu un apgaismojumu,
+stilā [izvēlētais stils],
+ar noskaņu [noskaņa],
+augstas kvalitātes, detalizēta ilustrācija
 ```
 
 ### Iterācija
 - Uzģenerē 1. versiju
-- Uzlabo promptu
+- Uzlabo uzvedni
 - Uzģenerē 2. vai 3. versiju
 - Salīdzini rezultātus
 
@@ -119,18 +158,10 @@ Par tā rezultātu un izmantošanu **atbild lietotājs**.
 ---
 
 ## Secinājums
-- Attēlu kvalitāti nosaka **prompta kvalitāte**
+- Attēlu kvalitāti nosaka **uzvednes kvalitāte**
 - Pirmais rezultāts nav gala rezultāts
 - MI “nesaprot” – tas reaģē uz ievadi
 - Jo precīzāks apraksts, jo labāks rezultāts
 ```
-
----
-
-Ja gribi, nākamais loģiskais solis būtu:
-
-* ✨ **šo pārvērst par vienu Gamma slide deck (10–12 slaidi)**
-* 📄 vai **saīsināt līdz 1 lapas darba lapai**
-* 🎤 vai **pielikt pasniedzēja piezīmes (“ko teikt skaļi”)**
 
 Pasaki, kurā formā šo visbiežāk izmantosi, un es to pieslīpēšu tieši tam.
