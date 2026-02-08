@@ -110,7 +110,7 @@ Sāc ar 1. raundu un gaidi manu izvēli (1–5).
 Kad Gemini uzdod situāciju, **atbildi ar vienu ciparu**, piemēram: **4**  
 (un seko sarunai tālāk pēc MI norādēm).
 
-Rezultātā kad visi raundi ir izieti, iedod lietotājam radošu retrospektīvu uzmindrinājumu par piedzīvoto.
+Kopā ir 3 raundi, un rezultātā kad visi raundi ir izieti, iedod lietotājam radošu retrospektīvu uzmindrinājumu par piedzīvoto.
 ```
 
 ---
