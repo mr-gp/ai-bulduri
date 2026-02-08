@@ -70,7 +70,7 @@ Mērķis nav “pareiza atbilde”, bet saprast, **kā MI domā un strukturē in
 
 ---
 
-## 5) Precizējošs jautājums (sarunu var turpināt!)
+### Precizējošs jautājums (sarunu var turpināt!)
 
 **Neveido jaunu sarunu.**  
 Turpini to pašu sarunu un uzdod **precizējošu vai padziļinošu jautājumu**.
@@ -89,7 +89,7 @@ Atbildi sev:
 - Kas mani pārsteidza?
 - Ko es varētu pajautāt citādi, lai atbilde būtu vēl precīzāka?
 
-## 6) Spēle: “Matemātikas treniņš” (3 raundi)
+## 5) Spēle: “Matemātikas treniņš” (3 raundi)
 ```text
 Tu esi mans draudzīgais spēles partneris.
 Noteikumi:
