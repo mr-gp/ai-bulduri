@@ -12,7 +12,7 @@ Iemācīties:
 
 Ievadi MI rīkā (ChatGPT / Gemini u.c.) meklējamo frāzi, piemēram:
 
-> Pozitīvi notikumi Apvienotajā Karalistē pēdējā gada laikā ar avotiem
+Pozitīvi notikumi Apvienotajā Karalistē pēdējā gada laikā ar avotiem
 
 Pievērs uzmanību:
 - vai tiek minēti konkrēti notikumi,
