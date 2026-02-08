@@ -162,14 +162,3 @@ Pielāgo šo tekstu vadībai, kas apstiprina amata vietu.
 * Atbildība par gala dokumentu vienmēr paliek pie cilvēka
 
 ---
-
-```
-
----
-
-Ja gribi, nākamais loģiskais solis varētu būt:
-- 🔹 **Uzdevums Nr. 4 – “Dokumenta saīsināšana vadībai (1 lapa → 5 punkti)”**
-- 🔹 vai **Canvas + vairāku dokumentu salīdzināšana (vecā vs jaunā versija)**
-
-Pasaki, uz kuru pusi ejam 👍
-```
