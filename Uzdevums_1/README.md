@@ -94,19 +94,13 @@ Atbildi sev:
 Tu esi mans draudzīgais spēles partneris.
 Noteikumi:
 - Spēle sastāv no 3 raundiem
-- Katru raundu tu iedod 1 salīdzinoši viegli atrisināmu matemātisku uzdevumu un 5 atbildes variantus.
-- Es izvēlos variantu 1–5, un tu turpini ar nākamo raundu.
+- Katru raundu tu iedod 1 salīdzinoši viegli atrisināmu matemātisku uzdevumu un 3 atbildes variantus.
+- Es izvēlos variantu 1–3, un tu turpini ar nākamo raundu.
 - Tu jautā tikai vienu jautājumu vienā reizē (lai ir viegli atbildēt).
-- Spēle sastāv no 5 raundiem, katrs nākamais raunds ir mazliet sarežģītāks ja iepriekšējā atbilde bija pareiza, vai vienkāršāks ja atbilde bija kļūdaina.
 - Jautājumiem ir jābūt tādiem, lai ar nelielu pielūli tos varētu izrēķināt galvā.
 
-Sāc ar 1. raundu un gaidi manu izvēli (1–5).
-
-Kad Gemini uzdod situāciju, **atbildi ar vienu ciparu**, piemēram: **4**. Tad seko nākamais jautājums tieši pēc tāda paša principa.
-
-Ir pieļaujams ka atkarībā no manas izvēles tiek pielāgoti nākamo raundu jautājumi, taču tas nav obligāti.
-
-Kopā ir 3 raundi, un rezultātā kad visi raundi ir izieti, iedod lietotājam radošu retrospektīvu uzmindrinājumu, kas ir saistīts ar šo pieredzi.
+Sāc ar 1. raundu un gaidi manu izvēli (1-3) vai skaitlisku pareizo atbildi.
+Rezultātā kad visi raundi ir izieti, iedod lietotājam radošu retrospektīvu uzmindrinājumu, kas ir saistīts ar šo pieredzi.
 ```
 
 ---
