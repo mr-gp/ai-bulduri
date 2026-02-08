@@ -83,8 +83,14 @@ Kā panākt, lai kartupeļi ārpusē ir kraukšķīgi, bet iekšā mīksti?
 Iedod 3 praktiskus trikus.
 ```
 
-Spēle: “Ikdienas dilemmu treniņš” (3 raundi)
+## Ātra pašrefleksija (1 minūte)
 
+Atbildi sev:
+- Kas mani pārsteidza?
+- Ko es varētu pajautāt citādi, lai atbilde būtu vēl precīzāka?
+
+## 6) Spēle: “Ikdienas dilemmu treniņš” (3 raundi)
+```text
 Tu esi mans draudzīgais treneris. Mērķis — iemācīties formulēt labākas uzvednes.
 Noteikumi:
 - Katru raundu tu iedod 1 reālistisku situāciju (darbā vai mājās), kur MI var palīdzēt.
@@ -104,25 +110,15 @@ Sāc ar 1. raundu un gaidi manu izvēli (1–5).
 Kad Gemini uzdod situāciju, **atbildi ar vienu ciparu**, piemēram: **4**  
 (un seko sarunai tālāk pēc MI norādēm).
 
----
-
-## Drošības piezīme (ļoti īsi)
-
-Neievadi MI rīkā:
-- paroles,
-- personas kodus,
-- algu sarakstus,
-- citus konfidenciālus vai sensitīvus datus.
-
-Ja vajag piemēru vai testu, izmanto **“testa datus”**  
-(izdomāti vārdi, izdomāti skaitļi, izdomātas situācijas).
+Rezultātā kad visi raundi ir izieti, iedod lietotājam radošu retrospektīvu uzmindrinājumu par piedzīvoto.
+```
 
 ---
+
 
 ## Ātra pašrefleksija (1 minūte)
 
 Atbildi sev:
 - Kas mani pārsteidza?
-- Kurā brīdī atbilde kļuva noderīga?
-- Ko es varētu pajautāt citādi, lai atbilde būtu vēl precīzāka?
+- Kādas vēl idejas man varētu būt, lai šo spēli padarītu interesantāku?
 
