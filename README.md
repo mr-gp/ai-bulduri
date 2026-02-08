@@ -10,9 +10,9 @@ un iemācīties tos droši un jēgpilni izmantot ikdienas darbā.
 
 ## 📌 Kam paredzēts šis repozitorijs
 
-- Apmācību dalībniekiem praktisko nodarbību laikā  
-- Patstāvīgai vingrināšanai pēc apmācībām  
-- Kā iedvesmas avots idejām, kā AI var palīdzēt dažādās darba situācijās  
+- Apmācību dalībniekiem prezentāciju un praktisko nodarbību laikā  
+- Patstāvīgai vingrināšanai pēc apmācībām
+- Kā iedvesmas avots idejām, kā AI var palīdzēt dažādās darba situācijās
 
 Šis **nav programmēšanas kurss** un neprasa tehniskas priekšzināšanas.
 
