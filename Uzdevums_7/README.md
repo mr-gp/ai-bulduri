@@ -28,15 +28,15 @@ Jums ir dots **Excel fails ar pārdošanas datiem**. Tajā ir informācija par:
 - apmaksas metodēm,
 - klientu novērtējumiem.
 
-Pieņemiet, ka:
-> Jūsu rīcībā ir pārdošanas dati, uz kuru bāzes ir jāizanalizē pārdošanas dati un klientu pieredze.
+Pieņem, ka:
+> Tavā rīcībā ir pārdošanas dati, uz kuru bāzes ir jāizanalizē pārdošanas dati un klientu pieredze.
 
 ---
 
 ## 🤖 Darba uzdevumi ar MI
 
 ### 1️⃣ Datu izpēte
-Augšupielādējiet Excel failu AI rīkā (piemēram, ChatGPT vai Gemini) un lūdziet MI:
+Augšupielādē Excel failu AI rīkā (piemēram, ChatGPT vai Gemini) un lūdziet MI:
 
 - paskaidrot, **kādi dati ir failā** (jāpievērš uzmanību vai Gemini modelis Fast spēj atbilstīgi novērtēt faila saturu, nepieciešamības gadījumā jāpārslēdzas uz **Pro**),
 - ko nozīmē katra kolonna,
@@ -47,7 +47,7 @@ Augšupielādējiet Excel failu AI rīkā (piemēram, ChatGPT vai Gemini) un lū
 ---
 
 ### 2️⃣ Pārdošanas analīze
-Izmantojot AI, noskaidrojiet:
+Izmantojot AI, noskaidro:
 - kuri produkti vai kategorijas pārdodas visvairāk,
 - vai ir redzamas tendences laikā (piemēram, pa mēnešiem vai gadiem),
 - vai ir produkti ar lielu apjomu, bet salīdzinoši mazu ieņēmumu.
@@ -57,7 +57,7 @@ Izmantojot AI, noskaidrojiet:
 ---
 
 ### 3️⃣ Klientu uzvedība
-Palūdziet AI analizēt:
+Palūdz MI analizēt:
 - klientu novērtējumus,
 - apmaksas metodes,
 - iespējamas sakarības starp apmaksu, produktu kategorijām un vērtējumiem.
@@ -67,7 +67,7 @@ Palūdziet AI analizēt:
 ---
 
 ### 4️⃣ Biznesa secinājumi
-Iedomājieties, ka jums ir jāsniedz kopsavilkums vadībai.
+Iedomājies, ka tev ir jāsniedz kopsavilkums vadībai.
 
 Izmantojot AI, sagatavojiet:
 - 3 galvenos secinājumus,
@@ -79,7 +79,7 @@ Izmantojot AI, sagatavojiet:
 ---
 
 ### 5️⃣ Kritiskā domāšana
-Apspriediet vai pierakstiet:
+Apspried vai pieraksti:
 - kādi jautājumi paliek neatbildēti, skatoties tikai uz šiem datiem,
 - kādi papildu dati būtu nepieciešami,
 - kādi secinājumi varētu būt maldinoši, ja datus interpretē pavirši.
