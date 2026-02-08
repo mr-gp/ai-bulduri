@@ -41,12 +41,18 @@ Izveido savu promptu, atbildot uz šiem punktiem:
 - **Stils:** fotogrāfija, ilustrācija, multfilma, glezna
 - **Detaļas:** gaisma, krāsas, gadalaiks, perspektīva
 
-### Tavs prompts
+### Tavs prompts, piemērs
+```
+Ļoti detalizēta kinematogrāfiska ilustrācija ar [vide – piem., ziemas mežs saulrietā], 
+kur redzams [galvenais objekts vai darbība – piem., kluss meža celiņš ar krītošu sniegu], 
+noskaņa ir [emocija – piem., mierīga un silta], 
+apgaismojums [gaisma – piem., silta saulrieta gaisma ar mīkstiem atspīdumiem], 
+stils [stils – piem., fotoreālistisks], 
+detaļas [papildu detaļas – piem., neliels dziļuma asums, dabiskas krāsas], 
+kvalitāte [tehniskā kvalitāte – piem., augsta izšķirtspēja, profesionālas fotogrāfijas noskaņa]
 ```
 
-Illustration of [vide], with [noskaņa], in [stils] style, detailed lighting, [krāsas], high quality, realistic composition
-
-```
+Izvēlies sev interesējošas detaļas un brīvi tās ieraskti promptā aizstājot [] blokus.
 
 > 💡 Vari ģenerēt attēlu vairākas reizes un mainīt tikai vienu daļu, lai redzētu atšķirību.
 
