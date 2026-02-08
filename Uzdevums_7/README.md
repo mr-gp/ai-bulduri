@@ -29,7 +29,7 @@ Jums ir dots **Excel fails ar pārdošanas datiem**. Tajā ir informācija par:
 - klientu novērtējumiem.
 
 Pieņemiet, ka:
-> Jūs strādājat uzņēmumā, kas vēlas labāk saprast pārdošanu un klientu pieredzi.
+> Jūsu rīcībā ir pārdošanas dati, uz kuru bāzes ir jāizanalizē pārdošanas dati un klientu pieredze.
 
 ---
 
