@@ -81,6 +81,7 @@ Piemērs (kopē/ielīmē):
 Ok, izvēlos pannas variantu.
 Kā panākt, lai kartupeļi ārpusē ir kraukšķīgi, bet iekšā mīksti?
 Iedod 3 praktiskus trikus.
+```
 
 Spēle: “Ikdienas dilemmu treniņš” (3 raundi)
 
