@@ -118,13 +118,13 @@ Tagad **tu pats esi autors**.
 
 Mērķis: uzrakstīt savu uzvedni MI rīkam tā, lai atbilde būtu **pēc iespējas noderīga tieši tev**.
 
-### 1. Izvēlies tēmu
+### 6.1. Izvēlies tēmu
 Izvēlies **vienu reālu situāciju**, kur MI varētu palīdzēt, piemēram:
 - ikdienas darbs (e-pasts, dokuments, idejas),
 - sadzīvisks jautājums,
 - jebkura cita tēma, kas tev šobrīd ir aktuāla.
 
-### 2. Uzraksti savu uzvedni
+### 6.2. Uzraksti savu uzvedni
 Rakstot uzvedni, mēģini iekļaut:
 - **kontekstu** (kas, kāpēc, kam),
 - **mērķi** (ko tu gribi saņemt),
@@ -145,14 +145,14 @@ Lūdzu:
 Raksti [valoda], [stilā/tonī], [formātā].
 ```
 
-### 3. Ievieto uzvedni Gemini un saņem atbildi
+### 6.3. Ievieto uzvedni Gemini un saņem atbildi
 
 - Ievieto savu uzvedni Google Gemini.
 - Izlasi saņemto atbildi **nesteidzoties**.
 
 ---
 
-### 4. Mini uzlabojums (obligāti)
+### 6.4. Mini uzlabojums (obligāti)
 
 Uzdod **vienu precizējošu jautājumu vai pieprasījumu**, piemēram:
 - “Saīsini šo līdz 5 punktiem.”
@@ -162,7 +162,7 @@ Uzdod **vienu precizējošu jautājumu vai pieprasījumu**, piemēram:
 
 ---
 
-### 5. Pašvērtējums (sev)
+### 6.5. Pašvērtējums (sev)
 
 Padomā:
 - Vai atbilde bija labāka nekā mana pirmā doma?
