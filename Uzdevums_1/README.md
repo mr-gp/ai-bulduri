@@ -112,3 +112,65 @@ Atbildi sev:
 - Kas mani pārsteidza?
 - Kādas vēl idejas man varētu būt, lai šo spēli padarītu interesantāku?
 
+## 6) Noslēguma uzdevums — izveido savu uzvedni (promptu)
+
+Tagad **tu pats esi autors**.
+
+Mērķis: uzrakstīt savu uzvedni MI rīkam tā, lai atbilde būtu **pēc iespējas noderīga tieši tev**.
+
+### 1. Izvēlies tēmu
+Izvēlies **vienu reālu situāciju**, kur MI varētu palīdzēt, piemēram:
+- ikdienas darbs (e-pasts, dokuments, idejas),
+- sadzīvisks jautājums,
+- jebkura cita tēma, kas tev šobrīd ir aktuāla.
+
+### 2. Uzraksti savu uzvedni
+Rakstot uzvedni, mēģini iekļaut:
+- **kontekstu** (kas, kāpēc, kam),
+- **mērķi** (ko tu gribi saņemt),
+- **prasības atbildei** (garums, struktūra, tonis, forma).
+
+Iedvesmai vari izmantot šo **skeletu** (vari to pārrakstīt vai neizmantot vispār):
+
+```text
+Tu esi [loma / palīgs].
+Situācija: [īss apraksts].
+Mērķis: [ko tieši es gribu panākt].
+
+Lūdzu:
+1) [prasība vai aspekts]
+2) [prasība vai aspekts]
+3) [prasība vai aspekts]
+
+Raksti [valoda], [stilā/tonī], [formātā].
+```
+
+### 3. Ievieto uzvedni Gemini un saņem atbildi
+
+- Ievieto savu uzvedni Google Gemini.
+- Izlasi saņemto atbildi **nesteidzoties**.
+
+---
+
+### 4. Mini uzlabojums (obligāti)
+
+Uzdod **vienu precizējošu jautājumu vai pieprasījumu**, piemēram:
+- “Saīsini šo līdz 5 punktiem.”
+- “Pārraksti vienkāršāk.”
+- “Pielāgo to cilvēkam bez tehniskām zināšanām.”
+- “Iedod vēl vienu alternatīvu.”
+
+---
+
+### 5. Pašvērtējums (sev)
+
+Padomā:
+- Vai atbilde bija labāka nekā mana pirmā doma?
+- Kas uzvednē strādāja labi?
+- Ko es nākamreiz formulētu precīzāk?
+
+> **Šī uzdevuma būtība:**  
+> MI atbilžu kvalitāte ļoti bieži ir tieši atkarīga no tā,  
+> cik skaidri un precīzi mēs paši formulējam savu domu.
+
+
