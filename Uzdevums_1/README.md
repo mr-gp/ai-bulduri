@@ -89,88 +89,78 @@ Atbildi sev:
 - Kas mani pārsteidza?
 - Ko es varētu pajautāt citādi, lai atbilde būtu vēl precīzāka?
 
-## 5) Spēle: “Matemātikas treniņš” (3 raundi)
-```text
-Tu esi mans draudzīgais spēles partneris.
-Noteikumi:
-- Spēle sastāv no 3 raundiem
-- Katru raundu tu iedod 1 salīdzinoši viegli atrisināmu matemātisku uzdevumu un 3 atbildes variantus.
-- Es izvēlos variantu 1–3, un tu turpini ar nākamo raundu.
-- Tu jautā tikai vienu jautājumu vienā reizē (lai ir viegli atbildēt).
-- Jautājumiem ir jābūt tādiem, lai ar nelielu pielūli tos varētu izrēķināt galvā.
+## 5) Personīgās instrukcijas Gemini profilā (globāla pielāgošana)
 
-Sāc ar 1. raundu un gaidi manu izvēli (1-3) vai skaitlisku pareizo atbildi.
-Rezultātā kad visi raundi ir izieti, iedod lietotājam radošu retrospektīvu uzmindrinājumu, kas ir saistīts ar šo pieredzi.
-```
+Šeit tu iepazīsies ar **personīgajām instrukcijām Gemini profilā** —
+tās ir norādījumi, ko Gemini **ņem vērā visās sarunās**, ne tikai vienā konkrētā jautājumā.
+
+Mērķis: sajust atšķirību starp
+- Gemini “bez konteksta par tevi”
+- un Gemini, kas **zina, kas tu esi un kā vēlies saņemt atbildes**.
 
 ---
 
+### 5.1. Atver personīgo profilu
 
-## Ātra pašrefleksija (1 minūte)
+1. Gemini lapā nospied uz **sava profila ikonas** (augšējā stūrī).
+2. Atver **Settings** (Iestatījumi).
+3. Atrodi sadaļu **Norādījumi Gemini** (nosaukums var nedaudz atšķirties).
 
-Atbildi sev:
-- Kas mani pārsteidza?
-- Kādas vēl idejas man varētu būt, lai šo spēli padarītu interesantāku?
+---
 
-## 6) Uzdevums — izveido savu uzvedni (promptu)
+### 5.2. Pievieno personīgās instrukcijas (kopē/ielīmē)
 
-Tagad **tu pats esi autors**.
-
-Mērķis: uzrakstīt savu uzvedni MI rīkam tā, lai atbilde būtu **pēc iespējas noderīga tieši tev**.
-
-### 6.1. Izvēlies tēmu
-Izvēlies **vienu reālu situāciju**, kur MI varētu palīdzēt, piemēram:
-- ikdienas darbs (e-pasts, dokuments, idejas),
-- sadzīvisks jautājums,
-- jebkura cita tēma, kas tev šobrīd ir aktuāla.
-
-### 6.2. Uzraksti savu uzvedni
-Rakstot uzvedni, mēģini iekļaut:
-- **kontekstu** (kas, kāpēc, kam),
-- **mērķi** (ko tu gribi saņemt),
-- **prasības atbildei** (garums, struktūra, tonis, forma).
-
-Iedvesmai vari izmantot šo **skeletu** (vari to pārrakstīt vai neizmantot vispār):
+Ievieto šādu tekstu savā profila instrukciju laukā:
 
 ```text
-Tu esi [loma / palīgs].
-Situācija: [īss apraksts].
-Mērķis: [ko tieši es gribu panākt].
-
-Lūdzu:
-1) [prasība vai aspekts]
-2) [prasība vai aspekts]
-3) [prasība vai aspekts]
-
-Raksti [valoda], [stilā/tonī], [formātā].
+Es vēlos, lai tu ar mani sarunājies latviski.
+Man patīk skaidras, strukturētas atbildes ar punktiem.
+Dod priekšroku praktiskiem piemēriem, nevis teorijai.
+Ja iespējams, piedāvā 2–3 variantus, no kuriem es varu izvēlēties.
+Ja jautājums ir neskaidrs, uzdod precizējošu jautājumu.
 ```
 
-### 6.3. Ievieto uzvedni Gemini un saņem atbildi
+Tekstam vari pievienot papildus infomrāciju, ja vēlies lai Gemini par tevi kaut ko papildus zinātu.
 
-- Ievieto savu uzvedni Google Gemini.
-- Izlasi saņemto atbildi **nesteidzoties**.
-
----
-
-### 6.4. Mini uzlabojums (obligāti)
-
-Uzdod **vienu precizējošu jautājumu vai pieprasījumu**, piemēram:
-- “Saīsini šo līdz 5 punktiem.”
-- “Pārraksti vienkāršāk.”
-- “Pielāgo to cilvēkam bez tehniskām zināšanām.”
-- “Iedod vēl vienu alternatīvu.”
+Saglabā izmaiņas.
 
 ---
 
-### 6.5. Pašvērtējums (sev)
+### 5.3. Pārbaudi, kā mainās atbildes
 
-Padomā:
-- Vai atbilde bija labāka nekā mana pirmā doma?
-- Kas uzvednē strādāja labi?
-- Ko es nākamreiz formulētu precīzāk?
+Uzsāc **New chat** un uzdod vienkāršu jautājumu, piemēram:
+```text
+Kā man labāk saplānot savu darba dienu?
+```
 
-> **Šī uzdevuma būtība:**  
-> MI atbilžu kvalitāte ļoti bieži ir tieši atkarīga no tā,  
-> cik skaidri un precīzi mēs paši formulējam savu domu.
+Pievērs uzmanību:
+- valodai (latviešu),
+- struktūrai,
+- tonim,
+- vai atbilde izskatās “pielāgotāka”.
 
+---
 
+### 5.4. Mini salīdzinājums (pēc izvēles)
+
+Ja vēlies, vari:
+- uz laiku izdzēst profila instrukcijas,
+- uzdot to pašu jautājumu vēlreiz,
+- un salīdzināt atbildes.
+
+---
+
+### 5.5. Ko tas nozīmē praksē?
+
+Šis uzdevums parāda, ka:
+- Gemini var “iepazīt” tavu darba stilu,
+- nav katru reizi jāraksta vieni un tie paši paskaidrojumi,
+- personīgās instrukcijas palīdz ietaupīt laiku,
+- MI kļūst par pastāvīgu, pielāgotu palīgu, nevis nejaušu atbilžu ģeneratoru.
+
+---
+
+> **Svarīgi:**  
+> Profila instrukcijās **neievadi sensitīvus datus**  
+> (paroles, personas kodus, algu informāciju u.c.).  
+> Raksti tikai tādu informāciju, ko būtu droši atkārtot arī skaļi.
