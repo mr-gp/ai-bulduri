@@ -112,7 +112,7 @@ Atbildi sev:
 - Kas mani pārsteidza?
 - Kādas vēl idejas man varētu būt, lai šo spēli padarītu interesantāku?
 
-## 6) Noslēguma uzdevums — izveido savu uzvedni (promptu)
+## 6) Uzdevums — izveido savu uzvedni (promptu)
 
 Tagad **tu pats esi autors**.
 
