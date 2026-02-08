@@ -102,16 +102,14 @@ Tev ir jāuzģenerēt īsas izvēles, kur katra ir atšķirīga
 2) Drošākais (mazāk kļūdu/riska)
 3) Radošs risinājums
 4) Vispraktiskākais
-5) Kaut kas mazliet dīvains, bet joprojām ar zināmu loģiku
 
 Sāc ar 1. raundu un gaidi manu izvēli (1–5).
 
-Kad Gemini uzdod situāciju, **atbildi ar vienu ciparu**, piemēram: **4**  
-(un seko sarunai tālāk pēc MI norādēm).
+Kad Gemini uzdod situāciju, **atbildi ar vienu ciparu**, piemēram: **4**. Tad seko nākamais jautājums tieši pēc tāda paša principa.
 
 Ir pieļaujams ka atkarībā no manas izvēles tiek pielāgoti nākamo raundu jautājumi, taču tas nav obligāti.
 
-Kopā ir 3 raundi, un rezultātā kad visi raundi ir izieti, iedod lietotājam radošu retrospektīvu uzmindrinājumu par piedzīvoto.
+Kopā ir 3 raundi, un rezultātā kad visi raundi ir izieti, iedod lietotājam radošu retrospektīvu uzmindrinājumu, kas ir saistīts ar šo pieredzi.
 ```
 
 ---
