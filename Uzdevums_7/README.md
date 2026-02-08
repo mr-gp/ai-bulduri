@@ -17,6 +17,8 @@ Uzdevums imitē ikdienas scenāriju:
 ---
 
 ## 📂 Ievaddati
+- **[sales.xlsx](./sales.xlsx)** – Excel fails ar pārdošanas datiem, paredzēts mācību un demonstrācijas nolūkiem
+
 Jums ir dots **Excel fails ar pārdošanas datiem**. Tajā ir informācija par:
 - klientiem,
 - produktiem,
@@ -31,12 +33,12 @@ Pieņemiet, ka:
 
 ---
 
-## 🤖 Darba uzdevumi ar AI
+## 🤖 Darba uzdevumi ar MI
 
 ### 1️⃣ Datu izpēte
-Augšupielādējiet Excel failu AI rīkā (piemēram, ChatGPT vai Gemini) un lūdziet AI:
+Augšupielādējiet Excel failu AI rīkā (piemēram, ChatGPT vai Gemini) un lūdziet MI:
 
-- paskaidrot, **kādi dati ir failā**,
+- paskaidrot, **kādi dati ir failā** (jāpievērš uzmanību vai Gemini modelis Fast spēj atbilstīgi novērtēt faila saturu, nepieciešamības gadījumā jāpārslēdzas uz **Pro**),
 - ko nozīmē katra kolonna,
 - vai dati izskatās loģiski un pilnīgi.
 
