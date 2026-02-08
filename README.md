@@ -28,7 +28,7 @@ Repozitorijs ir strukturēts pa tēmām, sekojot apmācību loģikai:
 
 ## Prezentācijas
 
-- 📘 [Par autoru](https://gamma.app/docs/7t64wkr14feys6j)
+- 📘 [Par autoru](https://gamma.app/docs/7t64wkr14feys6j) [Skatīt reāllaikā](https://gamma.app/docs/3-Dati-fqkfsd936iw6zeg?following_id=z08afx4h5wtjwun&follow_on_start=true)
 - 📘 [Kas ir MI?](https://gamma.app/docs/1vidpclc6w7o9a6)
 - 📘 [Dati un to nozīme MI vidē](https://gamma.app/docs/fqkfsd936iw6zeg)
 - 📘 [Uzvedņu sagatavošana](https://gamma.app/docs/l3ppgopdequlyf6)
