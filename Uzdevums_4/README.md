@@ -162,6 +162,3 @@ Par tā rezultātu un izmantošanu **atbild lietotājs**.
 - Pirmais rezultāts nav gala rezultāts
 - MI “nesaprot” – tas reaģē uz ievadi
 - Jo precīzāks apraksts, jo labāks rezultāts
-```
-
-Pasaki, kurā formā šo visbiežāk izmantosi, un es to pieslīpēšu tieši tam.
