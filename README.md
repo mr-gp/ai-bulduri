@@ -118,10 +118,11 @@ specializējoties infomrācijas sistēmu uzbūvē, datos un mākslīgajā intele
 
 ## 📚 Noderīgi resursi (Šis var tikt papildināts)
 
-- [Google Gemini](https://gemini.google.com/) – galvenā AI platforma apmācībās
-- [ChatGPT](https://chat.openai.com/) – alternatīvs AI asistents
-- [Microsoft Copilot](https://copilot.microsoft.com/) – integrēts Microsoft ekosistēmā
-- [Gamma](https://gamma.app/) – prezentāciju izveides rīks ar AI atbalstu
+- [Google Gemini](https://gemini.google.com/) – Izmantotā MI platforma šajās mācībās
+- [ChatGPT](https://chat.openai.com/) – Alternatīvs MI rīks, kuru arī var izmantot
+- [Microsoft Copilot](https://copilot.microsoft.com/) – Integrēts Microsoft ekosistēmā
+- [Gamma](https://gamma.app/) – Prezentāciju izveides rīks ar AI atbalstu
+- [GitHub](https://github.com/) – Plaši izmantots MI rīks informācijas sistēmu izstrādes automatizācijai
 
 ---
 
