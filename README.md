@@ -38,8 +38,8 @@ Repozitorijs ir strukturēts pa tēmām, sekojot apmācību loģikai:
 
 | Laiks        | Formāts | Tēma | Saturs |
 |-------------|--------|------|--------|
-| 10:00–12:00 | Teorija | MI pielietojums biznesā | MI pielietojums biznesa automatizācijai<br>MI nākotnes attīstības tendences<br>Jautājumi / atbildes |
-| 10:00–12:00 | Praktiskā nodarbība | Praktiskā nodarbība | Praktiskās nodarbība, turpinājums<br>Jautājumi / atbildes |
+| 10:00–11:00 | Teorija | MI pielietojums biznesā | MI pielietojums biznesa automatizācijai<br>MI nākotnes attīstības tendences<br>Jautājumi / atbildes |
+| 11:00–12:00 | Praktiskā nodarbība | Praktiska darbošanās ar MI rīkiem | Praktiskās nodarbība, turpinājums<br>Jautājumi / atbildes |
 | 12:00–13:00 | — | Pārtraukums | — |
 | 13:00–15:00 | Brīvā forma | Diskusijas un pieredzes apmaiņa | Rezervēts laiks, jautājumi/atbildes, brīva formāta debates |
 
