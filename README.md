@@ -24,6 +24,24 @@ Repozitorijs ir strukturēts pa tēmām, sekojot apmācību loģikai:
 
 (Konkrētais saturs var tikt papildināts apmācību gaitā.)
 
+## 📅 AI apmācību plāns (2 dienas)
+
+### 1. diena
+
+| Laiks        | Formāts | Tēma | Saturs |
+|-------------|--------|------|--------|
+| 10:00–12:00 | Teorija + diskusija | Ievads mākslīgajā intelektā | Iepazīšanās ar dalībniekiem<br>Kas ir mākslīgais intelekts?<br>Dati un to nozīme AI vidē<br>Uzvednes (prompti)<br>MI rīku apskats<br>Jautājumi / atbildes |
+| 12:00–13:00 | — | Pārtraukums | — |
+| 13:00–15:00 | Praktiskā nodarbība | Praktiska darbošanās ar MI rīkiem | Tekstu veidošana un ideju ģenerēšana<br>Informācijas meklēšana ar MI<br>Darbs ar dokumentiem un prezentācijām<br>Reāli piemēri no ikdienas darba |
+
+### 2. diena
+
+| Laiks        | Formāts | Tēma | Saturs |
+|-------------|--------|------|--------|
+| 10:00–12:00 | Teorija + diskusija | MI pielietojums biznesā | MI izmantošana biznesa automatizācijā<br>Drošība un atbildīga MI lietošana<br>MI nākotnes attīstības tendences<br>Praktiskās nodarbības turpinājums<br>Jautājumi / atbildes |
+| 12:00–13:00 | — | Pārtraukums | — |
+| 13:00–15:00 | Brīvā forma | Diskusijas un pieredzes apmaiņa | Dalībnieku jautājumi<br>Brīva formāta debates<br>Idejas MI ieviešanai organizācijā<br>Reāli izaicinājumi un nākamie soļi |
+
 ---
 
 ## Prezentācijas
