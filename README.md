@@ -77,8 +77,8 @@ Nav "pareizu" vai "nepareizu" atbilžu – svarīgs ir **process, eksperimentē�
 
 ## 📊 Prezentācijas
 
-Apmācībās tiek izmantotas prezentācijas, kas izveidotas ar **Gamma** platformu. 
-Saites ļauj gan **apskatīt prezentācijas patstāvīgi**, gan **sekot līdzi reāllaikā apmācību laikā**, 
+Apmācībās tiek izmantotas prezentācijas, kas izveidotas ar **Gamma** platformu.
+Saites ļauj gan **apskatīt prezentācijas patstāvīgi**, gan **sekot līdzi reāllaikā apmācību laikā**,
 kas nodrošina ērtāku un interaktīvāku mācību procesu.
 
 - 📘 [Par autoru](https://gamma.app/docs/7t64wkr14feys6j) (Lai skatītu tiešsaistē spiest [šeit](https://gamma.app/docs/3-Dati-fqkfsd936iw6zeg?following_id=z08afx4h5wtjwun&follow_on_start=true))
@@ -102,7 +102,7 @@ Ja nepieciešami piemēri, izmantojiet **izdomātus, anonimizētus vai publiskus
 ### Labās prakses
 
 - Pārliecinieties, ka ievadītā informācija ir publiska vai pilnībā anonimizēta
-- Atcerieties, ka AI platformas var glabāt un mācīties no ievadītajiem datiem
+- Atcerieties, ka dažas AI platformas var glabāt vai izmantot ievadītos datus (pārbaudiet katra rīka privātuma politiku)
 - Organizācijā strādājot ar AI, ievērojiet sava uzņēmuma drošības politiku
 
 ---
