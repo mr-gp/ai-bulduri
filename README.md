@@ -28,7 +28,7 @@ Apmācībās kā galvenais rīks tiek izmantots **Google Gemini**, taču pieliet
 
 ### Nepieciešamā platforma
 
-- **Optimālai pieredzei**: Ieteicama **Gemini Advanced** (Plus vai Pro) versija, kas nodrošina piekļuvi visām funkcijām un lielāku veiktspēju. Parasti pieejama kā **bezmaksas izmēģinājums uz vienu mēnesi**.
+- **Optimālai pieredzei**: Ieteicama **Gemini Advanced** versija, kas nodrošina piekļuvi visām funkcijām un lielāku veiktspēju. Parasti pieejama kā **bezmaksas izmēģinājums uz vienu mēnesi**.
 - **Alternatīva**: **Gemini Free** versija ir pietiekama pamata uzdevumiem, taču dažu advancētāku scenāriju izpilde var būt ierobežota vai nedaudz lēnāka.
 
 ---
