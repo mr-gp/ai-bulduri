@@ -30,7 +30,7 @@ Repozitorijs ir strukturēts pa tēmām, sekojot apmācību loģikai:
 
 | Laiks        | Formāts | Tēma | Saturs |
 |-------------|--------|------|--------|
-| 10:00–12:00 | Teorija + diskusija | Ievads mākslīgajā intelektā | Iepazīšanās ar dalībniekiem<br>Kas ir mākslīgais intelekts?<br>Dati un to nozīme AI vidē<br>Uzvednes (prompti)<br>MI rīki ikdienas darbam<br>Jautājumi / atbildes |
+| 10:00–12:00 | Teorija + diskusija | Ievads mākslīgajā intelektā | Iepazīšanās ar dalībniekiem<br>Kas ir mākslīgais intelekts?<br>Dati un to nozīme AI vidē<br>Uzvedņu sagatavošana<br>MI rīki ikdienas darbam<br>Jautājumi / atbildes |
 | 12:00–13:00 | — | Pārtraukums | — |
 | 13:00–15:00 | Praktiskā nodarbība | Praktiska darbošanās ar MI rīkiem | Tekstu veidošana un ideju ģenerēšana<br>Informācijas meklēšana ar MI<br>Darbs ar dokumentiem un prezentācijām<br>Reāli piemēri no ikdienas darba |
 
@@ -38,7 +38,7 @@ Repozitorijs ir strukturēts pa tēmām, sekojot apmācību loģikai:
 
 | Laiks        | Formāts | Tēma | Saturs |
 |-------------|--------|------|--------|
-| 10:00–12:00 | Teorija + diskusija | MI pielietojums biznesā | MI pielietojums biznesa automatizācijai<br>MI nākotnes attīstības tendences<br>Praktiskās nodarbība, turpinājums<br>Jautājumi / atbildes |
+| 10:00–12:00 | Teorija + praktiskā nodarbība | MI pielietojums biznesā<br>Praktiska darbošanās ar MI rīkiem | MI pielietojums biznesa automatizācijai<br>MI nākotnes attīstības tendences<br>Praktiskās nodarbība, turpinājums<br>Jautājumi / atbildes |
 | 12:00–13:00 | — | Pārtraukums | — |
 | 13:00–15:00 | Brīvā forma | Diskusijas un pieredzes apmaiņa | Rezervēts laiks, jautājumi/atbildes, brīva formāta debates |
 
