@@ -18,17 +18,15 @@ un iemācīties tos efektīvi un droši izmantot ikdienas darbā.
 
 ---
 
-## 🤖 Izmantotie AI rīki
+## 🤖 Izmantotie MI rīki
 
 Apmācībās kā galvenais rīks tiek izmantots **Google Gemini**, taču pielietotās metodes un pieejas ir **universālas** un pilnībā piemērojamas arī citām platformām, piemēram:
 - ChatGPT (OpenAI)
 - Microsoft Copilot
 - Claude (Anthropic)
-- Citiem līdzīgiem AI asistentiem
+- Citiem līdzīgiem MI rīkiem
 
-### Nepieciešamā platforma
-
-- **Optimālai pieredzei**: Ieteicama **Gemini Advanced** versija, kas nodrošina piekļuvi visām funkcijām un lielāku veiktspēju. Parasti pieejama kā **bezmaksas izmēģinājums uz vienu mēnesi**.
+- **Optimālai pieredzei**: Ieteicama **Gemini Plus** vai **Gemini Pro** versija, kas nodrošina piekļuvi visām funkcijām un lielāku veiktspēju. Parasti pieejama kā **bezmaksas izmēģinājums uz vienu mēnesi**.
 - **Alternatīva**: **Gemini Free** versija ir pietiekama pamata uzdevumiem, taču dažu advancētāku scenāriju izpilde var būt ierobežota vai nedaudz lēnāka.
 
 ---
@@ -38,7 +36,7 @@ Apmācībās kā galvenais rīks tiek izmantots **Google Gemini**, taču pieliet
 Repozitorijs ir organizēts sekojošā veidā:
 
 - **README.md** – šis dokuments ar vispārēju informāciju un apmācību plānu
-- **Uzdevums_1** līdz **Uzdevums_7** – mapes, kas satur praktiskos uzdevumus
+- **Uzdevums_1** līdz **Uzdevums_X** – mapes, kas satur praktiskos uzdevumus
 
 Katra uzdevuma mapē atrodas:
 - `README.md` fails ar uzdevuma aprakstu
@@ -48,13 +46,13 @@ Katra uzdevuma mapē atrodas:
 
 1. Atver konkrēto uzdevuma mapi (piemēram, `Uzdevums_1`)
 2. Izlasi uzdevuma aprakstu `README.md` failā
-3. Izpildi uzdevumu savā izvēlētajā AI rīkā (Gemini, ChatGPT vai cits)
+3. Izpildi uzdevumu savā izvēlētajā MI rīkā (Gemini, ChatGPT vai cits)
 4. Eksperimentē, maini uzvednes un salīdzini rezultātus
 5. Analizē, kā dažādi pieejas veidi ietekmē rezultātu
 
 Nav "pareizu" vai "nepareizu" atbilžu – svarīgs ir **process, eksperimentēšana un izpratne**.
 
-## 📅 AI apmācību plāns (2 dienas)
+## 📅 Mācību plāns (2 dienas)
 
 ### 1. diena
 
@@ -95,38 +93,30 @@ kas nodrošina ērtāku un interaktīvāku mācību procesu.
 Strādājot ar AI rīkiem apmācību uzdevumos:
 - **Neizmantojiet** reālus personas datus
 - **Neizmantojiet** sensitīvu vai konfidenciālu informāciju
-- **Neizmantojiet** iekšējos organizācijas dokumentus vai komerciāli jutīgus datus
 
 Ja nepieciešami piemēri, izmantojiet **izdomātus, anonimizētus vai publiskus datus**.
 
-### Labās prakses
-
-- Pārliecinieties, ka ievadītā informācija ir publiska vai pilnībā anonimizēta
-- Atcerieties, ka dažas AI platformas var glabāt vai izmantot ievadītos datus (pārbaudiet katra rīka privātuma politiku)
-- Organizācijā strādājot ar AI, ievērojiet sava uzņēmuma drošības politiku
-
 ---
 
-## 🎯 Apmācību filozofija
+## 🎯 Par mācību pieeju
 
-Apmācību pamatā ir praktiska un lietišķa pieeja:
+Mācību pamatā ir praktiska un lietišķa pieeja:
 
 - **AI kā biznesa rīks** – mākslīgais intelekts ir efektivitātes palielinātājs, nevis automatizēts risinājums
 - **Kvalitāte atkarīga no ievades** – precīzi formulēti jautājumi un konteksts nodrošina vērtīgus rezultātus  
 - **Atbildīga lietošana** – galīgā atbildība par AI radīto saturu un lēmumiem vienmēr ir lietotājam
-- **Kritiskā domāšana** – AI rezultāti ir jāizvērtē, jāvalidē un jāpielāgo konkrētai situācijai  
+- **Kritiskā domāšana** – MI rezultāti ir jāizvērtē, jāvalidē un jāpielāgo konkrētai situācijai  
 
 ---
 
 ## 👤 Autors
 
-Apmācības un materiālus sagatavojis  
-**Gatis Praličs** – informācijas sistēmu arhitekts ar vairāk nekā 20 gadu pieredzi IT nozarē,
-specializējoties datos un mākslīgajā intelektā.
+Apmācības un materiālus sagatavojis  **Gatis Praličs** – informācijas sistēmu arhitekts ar vairāk nekā 20 gadu pieredzi IT nozarē,
+specializējoties infomrācijas sistēmu uzbūvē, datos un mākslīgajā intelektā.
 
 ---
 
-## 📚 Noderīgi resursi
+## 📚 Noderīgi resursi (Šis var tikt papildināts)
 
 - [Google Gemini](https://gemini.google.com/) – galvenā AI platforma apmācībās
 - [ChatGPT](https://chat.openai.com/) – alternatīvs AI asistents
