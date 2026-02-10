@@ -4,7 +4,7 @@
 kas tiek izmantoti klātienes apmācībās **“Mākslīgā intelekta (AI) rīku izmantošana ikdienas darbam un biznesam”**.
 
 Mērķis – dot dalībniekiem iespēju **praktiski izmēģināt AI rīkus**, saprast to iespējas
-un iemācīties tos droši un jēgpilni izmantot ikdienas darbā.
+un iemācīties tos efektīvi un droši izmantot ikdienas darbā.
 
 ---
 
@@ -18,34 +18,68 @@ un iemācīties tos droši un jēgpilni izmantot ikdienas darbā.
 
 ---
 
+## 🤖 Izmantotie AI rīki
+
+Apmācībās kā galvenais rīks tiek izmantots **Google Gemini**, taču pielietotās metodes un pieejas ir **universālas** un pilnībā piemērojamas arī citām platformām, piemēram:
+- ChatGPT (OpenAI)
+- Microsoft Copilot
+- Claude (Anthropic)
+- Citiem līdzīgiem AI asistentiem
+
+### Nepieciešamā platforma
+
+- **Optimālai pieredzei**: Ieteicama **Gemini Advanced** versija, kas nodrošina piekļuvi visām funkcijām un lielāku veiktspēju. Parasti pieejama kā **bezmaksas izmēģinājums uz vienu mēnesi**.
+- **Alternatīva**: **Gemini Free** versija ir pietiekama pamata uzdevumiem, taču dažu advancētāku scenāriju izpilde var būt ierobežota vai nedaudz lēnāka.
+
+---
+
 ## 🧭 Repozitorija struktūra
 
-Repozitorijs ir strukturēts pa tēmām, sekojot apmācību loģikai:
+Repozitorijs ir organizēts sekojošā veidā:
 
-(Konkrētais saturs var tikt papildināts apmācību gaitā.)
+- **README.md** – šis dokuments ar vispārēju informāciju un apmācību plānu
+- **Uzdevums_1** līdz **Uzdevums_7** – mapes, kas satur praktiskos uzdevumus
+
+Katra uzdevuma mapē atrodas:
+- `README.md` fails ar uzdevuma aprakstu
+- Papildu materiāli (ja nepieciešams)
+
+### 🛠 Kā strādāt ar uzdevumiem
+
+1. Atver konkrēto uzdevuma mapi (piemēram, `Uzdevums_1`)
+2. Izlasi uzdevuma aprakstu `README.md` failā
+3. Izpildi uzdevumu savā izvēlētajā AI rīkā (Gemini, ChatGPT vai cits)
+4. Eksperimentē, maini uzvednes un salīdzini rezultātus
+5. Analizē, kā dažādi pieejas veidi ietekmē rezultātu
+
+Nav "pareizu" vai "nepareizu" atbilžu – svarīgs ir **process, eksperimentēšana un izpratne**.
 
 ## 📅 AI apmācību plāns (2 dienas)
 
 ### 1. diena
 
-| Laiks        | Formāts | Tēmas |
-|----------------|-------------|------------------------------------------------|
-| 10:00–12:00 | Teorija | Iepazīšanās ar dalībniekiem<br>Kas ir mākslīgais intelekts?<br>Dati un to nozīme AI vidē<br>Uzvedņu sagatavošana<br>MI rīki ikdienas darbam<br>Jautājumi / atbildes |
-| 12:00–13:00 | — | — |
-| 13:00–15:00 | Prakse | Tekstu veidošana un ideju ģenerēšana<br>Informācijas meklēšana ar MI<br>Darbs ar dokumentiem un prezentācijām<br>Reāli piemēri no ikdienas darba<br>Jautājumi / atbildes |
+| Laiks           | Formāts         | Tēmas                                          |
+|-----------------|-----------------|------------------------------------------------|
+| 10:00–12:00     | Teorija         | Iepazīšanās ar dalībniekiem<br>Kas ir mākslīgais intelekts?<br>Dati un to nozīme AI vidē<br>Uzvedņu sagatavošana<br>MI rīki ikdienas darbam<br>Jautājumi / atbildes |
+| 12:00–13:00     | Pārtraukums     | —                                              |
+| 13:00–15:00     | Prakse          | Tekstu veidošana un ideju ģenerēšana<br>Informācijas meklēšana ar MI<br>Darbs ar dokumentiem un prezentācijām<br>Reāli piemēri no ikdienas darba<br>Jautājumi / atbildes |
 
 ### 2. diena
 
-| Laiks        | Formāts | Tēmas |
-|----------------|-------------|------------------------------------------------|
-| 10:00–11:00 | Teorija | MI pielietojums biznesa automatizācijai<br>MI nākotnes attīstības tendences<br>Jautājumi / atbildes |
-| 11:00–12:00 | Prakse | Praktiskās nodarbība, turpinājums<br>Jautājumi / atbildes |
-| 12:00–13:00 | — | — |
-| 13:00–15:00 | Brīvā forma | Rezervēts laiks<br>Jautājumi/atbildes<br>Brīva formāta debates |
+| Laiks           | Formāts         | Tēmas                                          |
+|-----------------|-----------------|------------------------------------------------|
+| 10:00–11:00     | Teorija         | MI pielietojums biznesa automatizācijai<br>MI nākotnes attīstības tendences<br>Jautājumi / atbildes |
+| 11:00–12:00     | Prakse          | Praktiskās nodarbība, turpinājums<br>Jautājumi / atbildes |
+| 12:00–13:00     | Pārtraukums     | —                                              |
+| 13:00–15:00     | Brīvā forma     | Rezervēts laiks<br>Jautājumi/atbildes<br>Brīva formāta debates |
 
 ---
 
-## Prezentācijas
+## 📊 Prezentācijas
+
+Apmācībās tiek izmantotas prezentācijas, kas izveidotas ar **Gamma** platformu.
+Saites ļauj gan **apskatīt prezentācijas patstāvīgi**, gan **sekot līdzi reāllaikā apmācību laikā**,
+kas nodrošina ērtāku un interaktīvāku mācību procesu.
 
 - 📘 [Par autoru](https://gamma.app/docs/7t64wkr14feys6j) (Lai skatītu tiešsaistē spiest [šeit](https://gamma.app/docs/3-Dati-fqkfsd936iw6zeg?following_id=z08afx4h5wtjwun&follow_on_start=true))
 - 📘 [Kas ir MI?](https://gamma.app/docs/1vidpclc6w7o9a6)
@@ -54,32 +88,33 @@ Repozitorijs ir strukturēts pa tēmām, sekojot apmācību loģikai:
 
 ---
 
-## 🛠 Kā strādāt ar uzdevumiem
+## 🔐 Datu drošība un privātums
 
-1. Atver konkrēto mapi
-2. Izlasi uzdevuma aprakstu (`README.md` vai `.md` failu mapē)
-3. Izpildi uzdevumu sev ērtā AI rīkā (piemēram, ChatGPT vai Google Gemini)
-4. Eksperimentē, maini uzvednes un salīdzini rezultātus
+⚠️ **Svarīgi ievērot**  
 
-Nav “pareizu” vai “nepareizu” atbilžu – svarīgs ir **process un izpratne**.
+Strādājot ar AI rīkiem apmācību uzdevumos:
+- **Neizmantojiet** reālus personas datus
+- **Neizmantojiet** sensitīvu vai konfidenciālu informāciju
+- **Neizmantojiet** iekšējos organizācijas dokumentus vai komerciāli jutīgus datus
 
----
+Ja nepieciešami piemēri, izmantojiet **izdomātus, anonimizētus vai publiskus datus**.
 
-## 🔐 Datu drošība
+### Labās prakses
 
-⚠️ **Svarīgi**  
-Uzdevumos **nedrīkst izmantot reālus personas datus, sensitīvu informāciju
-vai iekšējos organizācijas dokumentus**.
-
-Ja nepieciešams – izmanto izdomātus vai anonimizētus piemērus.
+- Pārliecinieties, ka ievadītā informācija ir publiska vai pilnībā anonimizēta
+- Atcerieties, ka dažas AI platformas var glabāt vai izmantot ievadītos datus (pārbaudiet katra rīka privātuma politiku)
+- Organizācijā strādājot ar AI, ievērojiet sava uzņēmuma drošības politiku
 
 ---
 
 ## 🎯 Apmācību filozofija
 
-- AI ir **rīks**, nevis maģija  
-- Rezultāta kvalitāti nosaka **ievade, konteksts un kritiskā domāšana**  
-- Atbildība par gala rezultātu vienmēr paliek cilvēkam  
+Apmācību pamatā ir praktiska un lietišķa pieeja:
+
+- **AI kā biznesa rīks** – mākslīgais intelekts ir efektivitātes palielinātājs, nevis automatizēts risinājums
+- **Kvalitāte atkarīga no ievades** – precīzi formulēti jautājumi un konteksts nodrošina vērtīgus rezultātus  
+- **Atbildīga lietošana** – galīgā atbildība par AI radīto saturu un lēmumiem vienmēr ir lietotājam
+- **Kritiskā domāšana** – AI rezultāti ir jāizvērtē, jāvalidē un jāpielāgo konkrētai situācijai  
 
 ---
 
@@ -91,7 +126,16 @@ specializējoties datos un mākslīgajā intelektā.
 
 ---
 
+## 📚 Noderīgi resursi
+
+- [Google Gemini](https://gemini.google.com/) – galvenā AI platforma apmācībās
+- [ChatGPT](https://chat.openai.com/) – alternatīvs AI asistents
+- [Microsoft Copilot](https://copilot.microsoft.com/) – integrēts Microsoft ekosistēmā
+- [Gamma](https://gamma.app/) – prezentāciju izveides rīks ar AI atbalstu
+
+---
+
 ## 💡 Piezīme
 
-Repozitorijs var tikt papildināts un uzlabots apmācību laikā un pēc tām.
-Ja kaut kas nav skaidrs – tas ir labs sākumpunkts jautājumam vai diskusijai.
+Repozitorijs tiek regulāri papildināts un uzlabots. 
+Ja rodas jautājumi vai neskaidrības – tas ir labs sākumpunkts diskusijai ar apmācību vadītāju.
