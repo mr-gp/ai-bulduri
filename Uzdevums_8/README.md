@@ -63,11 +63,12 @@ Atceries: pirmā atbilde nav gala rezultāts.
 
 ## 🎨 4. solis – Izmanto Gamma
 
-1. Atver Gamma 
-2. Iekopē Gemini sagatavoto uzvedni
-3. Ģenerē prezentāciju
-4. Izvēlies piemērotu dizainu
-5. Pārskati struktūru un vizuālo loģiku
+1. Atver [Gamma](https://gamma.app/)
+2. Piesakies ar savu Google kontu un izveido lietotāju (ja tāds nav bijis iepriekš izveidots)
+3. Iekopē Gemini sagatavoto uzvedni
+4. Ģenerē prezentāciju
+5. Izvēlies piemērotu dizainu
+6. Pārskati struktūru un vizuālo loģiku
 
 ---
 
