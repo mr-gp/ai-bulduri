@@ -123,7 +123,7 @@ Uzdod **vienu precizējošu jautājumu vai pieprasījumu**, piemēram:
 
 ---
 
-### 2.5. Pašvērtējums (sev)
+### 2.5. Refleksija
 
 Padomā:
 - Vai atbilde bija labāka nekā mana pirmā doma?
@@ -131,7 +131,6 @@ Padomā:
 - Ko es nākamreiz formulētu precīzāk?
 
 > **Šī uzdevuma būtība:**  
-> MI atbilžu kvalitāte ļoti bieži ir tieši atkarīga no tā,  
-> cik skaidri un precīzi mēs paši formulējam savu domu.
+> MI atbilžu kvalitāte ļoti bieži ir tieši atkarīga no tā, cik skaidri un precīzi mēs paši formulējam savu domu.
 
 
