@@ -95,8 +95,7 @@ Man ir 5 uzdevumi, bet nezinu, kuru darīt pirmo.
    - Vai struktūra ir citāda?
    - Vai atbildes ir praktiskākas?
   
-> dd
-> dd
+> Ņem vērā, ka iespējams pievienot papildus zināšanas piemēram dokumentus, pie Gem rediģēšnas sadaļā "Zināšanas".
 
 ---
 
@@ -137,10 +136,7 @@ Uzdevums ir saprast, ka MI uzvedība ir vadāma.
 
 Custom Gem instrukcijās neievadi:
 
-- paroles
-- personas kodus
-- iekšējos uzņēmuma dokumentus
-- sensitīvu informāciju
+- paroles, personas datus, u.c. sensitīvu informāciju
 
 ---
 
@@ -153,5 +149,9 @@ Custom Gem ļauj:
 - izveidot personalizētu darba palīgu
 - ietaupīt laiku
 
-MI nav tikai čats.  
-To var konfigurēt kā specializētu instrumentu.
+# Neliela retrospekcija
+
+- Kā vērtē šādas iespējas lietderību?
+- Kādas varētu būt 3 pirmās idejas, kur šāda iespēja varētu būt noderīga?
+
+---
