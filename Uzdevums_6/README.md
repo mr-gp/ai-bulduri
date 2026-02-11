@@ -17,8 +17,7 @@ un domāšanas paplašināšana.
   https://likumi.lv/ta/id/287760-publisko-iepirkumu-likums
 
 - **Dokuments analīzei:**  
-  `8.pielikums_Iepirkuma līguma projekts.docx`  
-  (Bulduru tehnikuma elektroenerģijas piegādes līguma projekts – publiski pieejama informācija)
+  `LigumaProjekts.docx`
 
 ---
 
