@@ -6,7 +6,7 @@
 
 ---
 
-## 1) Atver Google Gemini
+## 1. Atver Google Gemini
 
 Atver: https://gemini.google.com/
 
@@ -14,7 +14,7 @@ Pieslēdzies ar savu Google kontu (ja prasa).
 
 ---
 
-## 2) Pārslēdz valodu uz latviešu
+## 2. Pārslēdz valodu uz latviešu
 
 1. Atver Google konta valodas iestatījumus: https://myaccount.google.com/language  
 2. Nomaini valodu uz **Latviešu**.  
@@ -24,7 +24,7 @@ Pieslēdzies ar savu Google kontu (ja prasa).
 
 ---
 
-## 3) Izpēti saskarni
+## 3. Izpēti saskarni
 
 Atrodi:
 - **New chat** (jauna saruna)
@@ -34,7 +34,7 @@ Atrodi:
 
 ---
 
-## 4) Pirmais vienkāršais jautājums (sadzīvisks piemērs)
+## 4. Pirmais vienkāršais jautājums (sadzīvisks piemērs)
 
 Uzsāc jaunu sarunu un uzdod vienu vienkāršu jautājumu.
 
@@ -45,7 +45,7 @@ Izvēlies vienu (vai izdomā savu):
 
 ---
 
-## 5) Jauna saruna + uzvedne ar vairākām prasībām (kopē/ielīmē)
+## 5. Jauna saruna + uzvedne ar vairākām prasībām (kopē/ielīmē)
 
 Uzsāc **New chat** un ielīmē:
 
@@ -91,7 +91,7 @@ Atbildi sev:
 - Kas mani pārsteidza?
 - Ko es varētu pajautāt citādi, lai atbilde būtu vēl precīzāka?
 
-## 6) Personīgās instrukcijas Gemini profilā (globāla pielāgošana)
+## 6. Personīgās instrukcijas Gemini profilā (globāla pielāgošana)
 
 Šeit tu iepazīsies ar **personīgajām instrukcijām Gemini profilā** —
 tās ir norādījumi, ko Gemini **ņem vērā visās sarunās**, ne tikai vienā konkrētā jautājumā.
