@@ -61,31 +61,14 @@ Izvēlies sev interesējošas detaļas un brīvi tās ieraskti promptā aizstāj
 ## 4.3. daļa – Attēls + stils (Ice Age piemērs)
 
 Šajā daļā redzēsim, kā MI strādā ar **attēlu kā ievaddatiem**.
+Pievienosim kādam attēlam kas attēlo ziemas ainavu Ice Age animācijas filmas varoņus.
 
 ---
 
 ### 4.3.1. Izmantosim attēlu no repozitorija  
-   Attēls atrodas šaipaša GitHub direktorijā [snow.jpg](snow.jpg)
+Attēls atrodas šaipaša GitHub direktorijā [snow.jpg](snow.jpg)
 
-### 4.3.2. Izmanto šo attēlu kā pamatu attēlu rediģēšanai vai stila maiņai, 
-pievienojot **Ice Age multfilmas varoņus** (piemēram, Sid, Manny, Diego), 
-saglabājot oriģinālā attēla perspektīvu, apgaismojumu un noskaņu.
-
-vai
-
-### 4.3.3. Papildu uzdevums (ieteicams)  
-Lietotājs var **uzģenerēt arī pats savu attēlu**, kas būtu piemērots *Ice Age* tēmai, piemēram:
-- ziemas ainava,
-- sniegs, ledus, aisbergi,
-- auksts klimats,
-- plašas dabas ainavas,
-- kāda persona pēc izvēles.
-
-Šo paša ģenerēto attēlu var izmantot kā pamatu turpmākai attēlu rediģēšanai un stila eksperimentiem.
-
----
-
-2. Izmanto zemāk esošo promptu kopā ar šo attēlu.
+Sāc jaunu čatu un pievieno tam attēlu snow.jpg un izmanto zemāk esošo uzvedni:
 
 ### Gatavais prompts (copy–paste)
 ```
@@ -114,7 +97,7 @@ augstas kvalitātes ilustrāciju.
   **vai** 
 - Izmanto **savu foto** (ja vēlies)
 
-Izveido **savu promptu**, kas:
+Izveido **savu uzvedni**, kas:
 - papildina attēlu ar jauniem elementiem,
 - maina stilu vai noskaņu,
 - saglabā sākotnējā attēla loģiku.
