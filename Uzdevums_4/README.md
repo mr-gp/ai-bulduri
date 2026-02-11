@@ -62,14 +62,6 @@ Izvēlies sev interesējošas detaļas un brīvi tās ieraskti promptā aizstāj
 
 Šajā daļā redzēsim, kā MI strādā ar **attēlu kā ievaddatiem**.
 
-Perfekti, sapratu 👍
-Te ir **gatavs Markdown fragments**, precīzi tam gadījumam, ko apraksti:
-
-* atsauce uz `snow.jpg`, kas atrodas **turpat, kur README**
-* papildus apakšpunkts par **lietotāja paša ģenerētu attēlu Ice Age tēmai**
-
-Vari šo **iekopēt 1:1** savā README.
-
 ---
 
 ### 4.3.1. Izmantosim attēlu no repozitorija  
