@@ -1,22 +1,22 @@
 # 🧩 Uzdevums Nr. 3 – Darbs Canvas režīmā: no uzvednes līdz gatavam dokumentam
 
 ## 🎯 Uzdevuma mērķis
-
-Iemācīties izmantot mākslīgo intelektu kā **praktisku palīgu dokumentu sagatavošanā**, nevis tikai ideju ģeneratoru.
+Ģenerēt ideju un dokumentu uzmetumus un **praktisku palīgu dokumentu sagatavošanā**.
 
 Šajā uzdevumā:
-- izveidosim dokumenta **pirmo versiju ar labu uzvedni (promptu)**,
-- **uzlabosim un labosim tekstu Canvas režīmā**,
-- izmantosim MI kā **redaktoru, nevis autoru**,
-- **eksportēsim rezultātu kā DOCX dokumentu**, ko var izmantot reālā darbā.
+- Izveidosim sagatavi aprakstītai idejai.
+- Izveidosim dokumenta **pirmo versiju ar izvērstu uzvedni (promptu)**.
+- **Uzlabosim un labosim tekstu Canvas režīmā**.
+- Izmantosim MI kā **redaktoru (ne tikai kā autoru)**.
+- **Eksportēsim rezultātu kā DOCX dokumentu**.
 
-> ⚠️ Mērķis nav perfekts amata apraksts, bet prasme strādāt ar MI iteratīvi un apzināti.
+> ⚠️ Mērķis nav perfekts amata apraksts, bet prasmes sagatavot skices un uzmetumus attīstīšana.
 
 ---
 
 ## 🧠 1. solis – Sākuma uzvedne (kopē un ielīmē)
 
-Iekopē šo uzvedni MI rīkā:
+Uzsāc jaunu sarunu un iekopē šo uzvedni MI rīkā:
 
 ```text
 Uzvedies kā personāla atlases speciālists ar pieredzi valsts vai izglītības iestādēs Latvijā.
