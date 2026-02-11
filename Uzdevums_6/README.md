@@ -93,5 +93,6 @@ Paaugstināta grūtības pakāpe (pēc izvēles):
 MI sniegtā analīze **neaizstāj jurista atzinumu**.
 Atbildība par lēmumiem un dokumentu gala redakciju vienmēr paliek cilvēkam.
 
-**MI šajā uzdevumā tiek izmantots kā **domāšanas, pārskatīšanas un riska pamanīšanas instruments**.
+MI šajā uzdevumā tiek izmantots kā **domāšanas, pārskatīšanas un riska pamanīšanas instruments**.
+
 ---
