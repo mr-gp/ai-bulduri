@@ -63,18 +63,19 @@ Atceries: pirmā atbilde nav gala rezultāts.
 
 ## 🎨 4. solis – Izmanto Gamma
 
-1. Atver [Gamma](https://gamma.app/)
-2. Piesakies ar savu Google kontu un izveido lietotāju (ja tāds nav bijis iepriekš izveidots)
-3. Iekopē Gemini sagatavoto uzvedni
-4. Ģenerē prezentāciju
-5. Izvēlies piemērotu dizainu
-6. Pārskati struktūru un vizuālo loģiku
+1. Atver [Gamma](https://gamma.app/).
+2. Piesakies ar savu Google kontu un izveido lietotāju (ja tāds nav bijis iepriekš izveidots).
+3. Ja vēlies pārslēdz saskarni uz latviešu valodu (saskarnes kreisajā pusē apakšā uz apaļās lietotāja ikonas nospiežot redzama patreizējā valoda, ko var noaminīt).
+4. Atrodi jaunas Gammas (prezentācijas) izveides opciju (+ Izveidot jaunu AI)
+5. Izvēlies pirmo un ieteicamo opciju "Izveidot"
+6. Atstāj "Prezentācija", izvēlies 10 kartes (slaidi), Latviešu prezentācijas valodu, un Kartes izmēru piemēram 16:9
+8. Iekopē Gemini sagatavoto uzvedni iekš uzvednes ievades loga "Aprakstiet, ko vēlies izveidot".
+9. Sekojot instrukcijām un norādēm, iepazīsties un pielāgo papildus opcijas atbilstoši interesēm un spied "Izveidot".
+10. Ģenerē prezentāciju
 
 ---
 
-## ✏ 5. solis – Pārbaudi un uzlabo rezultātu
-
-Izvērtē:
+## ✏ 5. solis – Apskati un novērtē rezultātu
 
 - Vai slaidi ir loģiskā secībā?
 - Vai nav pārāk daudz teksta?
@@ -82,41 +83,30 @@ Izvērtē:
 - Vai auditorijai tas būs saprotami?
 - Vai prezentācijai ir skaidrs sākums un noslēgums?
 
-Ja nepieciešams:
-- Atgriezies Gemini un precizē uzvedni
-- Labo saturu Gamma vidē
+Gamma rīks piedāvā ļoti plašas un elastīgas iespējas veikt dažādus papildus labojumus, taču tas nav galvenais mērķis šajās mācībās.
 
 ---
 
-## 💬 6. solis – Refleksija
+## 💬 6. solis – Eksportē uz sev vēlamo papildus formātu
+
+Gamma app vidē pie izveidotās prezentācijas atrodi eksportēšanas opcijas (skat. trīspunkte ekrāna labajā augšējā stūrī), un pamēģini eksportēt kādā no pieejamiem formātiem, piemēram PDF vai PowerPoint.
+
+---
+## 💬 7. solis – Refleksija
 
 Atbildi sev:
 
 - Kas uzvednē ietekmēja gala rezultātu visvairāk?
-- Vai bija nepieciešamas vairākas iterācijas?
 - Vai Gamma rezultāts atbilda sākotnējam mērķim?
 - Ko nākamreiz uzrakstītu citādi?
-
----
-
-## 🧩 Papildu izaicinājums (pēc izvēles)
-
-Pamēģini:
-
-- Izveidot to pašu prezentāciju ar citu auditoriju
-- Mainīt toni (formāls / iedvesmojošs / tehnisks)
-- Izveidot to pašu tēmu 5 slaidos (saīsināta versija)
-- Izveidot to pašu tēmu 15 slaidos (paplašināta versija)
-
-Salīdzini rezultātus.
 
 ---
 
 ### 🏁 Rezultāts
 
 Katram dalībniekam:
-- 1 gatava 10 slaidu prezentācija
-- Izpratne par uzvednes nozīmi
-- Pieredze darbā ar Gemini + Gamma
-- Sapratne par iterācijas spēku
+- Iegūta pieredze ar Google konta izmantošanu un reģistrāciju jaunā AI rīkā, tajā skaitā dažādu sākotnējo iestatījumu izveidošanu.
+- 1 gatava 10 slaidu prezentācija.
+- Izpratne par uzvednes nozīmi.
+- Pieredze darbā ar Gamma App.
 
