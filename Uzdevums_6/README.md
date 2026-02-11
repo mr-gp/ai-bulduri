@@ -81,6 +81,11 @@ Paaugstināta grūtības pakāpe (pēc izvēles):
 - Sakārtot numerāciju ja nepieciešams, atkāroti pieteikt Publisko iepirkumu jurista uzvedni, un šo to pielabot.
 - Izeksportēt laboto versiju uz DOCX.
 
+> **Ņem vērā:**  
+> Tas var neizdoties ar pirmo reizi
+> Var nākties pāslēgties starp **Fast (Ātrs)**  un **Pro** MI versijām  
+> jo labāk MI spēj uzturēt jēgpilnu dialogu.
+
 ---
 
 ### ⚠️ Svarīga piezīme
@@ -89,3 +94,4 @@ MI sniegtā analīze **neaizstāj jurista atzinumu**.
 Atbildība par lēmumiem un dokumentu gala redakciju vienmēr paliek cilvēkam.
 
 MI šajā uzdevumā tiek izmantots kā **domāšanas, pārskatīšanas un riska pamanīšanas instruments**.
+---
