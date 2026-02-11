@@ -16,11 +16,11 @@ Nokopē zemāk esošo promptu un uzģenerē attēlu Nano Banana rīkā.
 
 ### Gatavais prompts
 ```
-Ļoti detalizēta kinematogrāfiska ilustrācija ar mājīgu ziemas mežu saulrietā, krītošs sniegs, silti gaismas atspīdumi, neliels dziļuma asums, fotoreālistisks stils, augsta izšķirtspēja, dabiskas krāsas, profesionālas fotogrāfijas noskaņa
+Ļoti detalizēta kinematogrāfiska ilustrācija ar mežu ziemā saulrietā, krītošs sniegs, silti gaismas atspīdumi, neliels dziļuma asums, fotoreālistisks stils, augsta izšķirtspēja, dabiskas krāsas, profesionālas fotogrāfijas noskaņa
 ```
 vai
 ```
-Ultra-detailed cinematic illustration of a cozy winter forest scene at sunset, soft snow falling, warm light reflections, shallow depth of field, photorealistic style, high resolution, natural colors, professional photography look
+Ultra-detailed cinematic illustration of a winter forest scene at sunset, soft snow falling, warm light reflections, shallow depth of field, photorealistic style, high resolution, natural colors, professional photography look
 ```
 
 ### Padomā pēc ģenerēšanas
