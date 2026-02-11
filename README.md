@@ -80,7 +80,7 @@ Saites ļauj gan **apskatīt prezentācijas patstāvīgi**, gan **sekot līdzi r
 kas nodrošina ērtāku un interaktīvāku mācību procesu.
 
 - 📘 [Par autoru](https://gamma.app/docs/7t64wkr14feys6j) (Lai skatītu tiešsaistē spiest [šeit](https://gamma.app/docs/7t64wkr14feys6j?following_id=z08afx4h5wtjwun&follow_on_start=true))
-- 📘 [Kas ir MI?](https://gamma.app/docs/1vidpclc6w7o9a6) (Lai skatītu tiešsaistē spiest [šeit(https://gamma.app/docs/2-Kas-ir-MI-1vidpclc6w7o9a6?following_id=z08afx4h5wtjwun&follow_on_start=true))]
+- 📘 [Kas ir MI?](https://gamma.app/docs/1vidpclc6w7o9a6) (Lai skatītu tiešsaistē spiest [šeit](https://gamma.app/docs/2-Kas-ir-MI-1vidpclc6w7o9a6?following_id=z08afx4h5wtjwun&follow_on_start=true))]
 - 📘 [Dati un to nozīme MI vidē](https://gamma.app/docs/fqkfsd936iw6zeg) (Lai skatītu tiešsaistē spiest [šeit](https://gamma.app/docs/3-Dati-fqkfsd936iw6zeg?following_id=z08afx4h5wtjwun&follow_on_start=true))
 - 📘 [Uzvedņu sagatavošana](https://gamma.app/docs/l3ppgopdequlyf6) (Lai skatītu tiešsaistē spiest [šeit](https://gamma.app/docs/l3ppgopdequlyf6?following_id=z08afx4h5wtjwun&follow_on_start=true))
 
