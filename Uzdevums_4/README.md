@@ -12,7 +12,7 @@
 ## 4.1. daļa – Gatavs prompts (copy–paste)
 
 ### Instrukcija
-Nokopē zemāk esošo promptu un uzģenerē attēlu Nano Banana rīkā.
+Nokopē zemāk esošo promptu un uzģenerē attēlu čata logā izvēloties **Tools -> Create Images** (**Rīki -> Izveidot attēlus**)
 
 ### Gatavais prompts
 ```
@@ -34,14 +34,14 @@ Ultra-detailed cinematic illustration of a winter forest scene at sunset, soft s
 Tagad izveidosim līdzīgu promptu pašiem, bet strukturēti.
 
 ### Instrukcija
-Izveido savu promptu, atbildot uz šiem punktiem:
+Izveido savu uzvedni, atbildot uz šiem punktiem:
 
 - **Vide:** kur notiek darbība?
 - **Noskaņa:** mierīga, priecīga, dramatiska, silta u.c.
 - **Stils:** fotogrāfija, ilustrācija, multfilma, glezna
 - **Detaļas:** gaisma, krāsas, gadalaiks, perspektīva
 
-### Tavs prompts, piemērs
+### Tava uzvedne, piemērs
 ```
 Ļoti detalizēta kinematogrāfiska ilustrācija ar [vide – piem., ziemas mežs saulrietā], 
 kur redzams [galvenais objekts vai darbība – piem., kluss meža celiņš ar krītošu sniegu], 
@@ -68,7 +68,7 @@ Pievienosim kādam attēlam kas attēlo ziemas ainavu Ice Age animācijas filmas
 ### 4.3.1. Izmantosim attēlu no repozitorija  
 Attēls atrodas šaipaša GitHub direktorijā [snow.jpg](snow.jpg)
 
-Sāc jaunu čatu un pievieno tam attēlu snow.jpg un izmanto zemāk esošo uzvedni:
+Sāc jaunu čatu, čata logā izvēloties **Tools -> Create Images** (**Rīki -> Izveidot attēlus**) un pievieno tam attēlu snow.jpg un izmanto zemāk esošo uzvedni:
 
 ### Gatavais prompts (copy–paste)
 ```
@@ -82,7 +82,8 @@ augstas kvalitātes ilustrāciju.
 
 ```
 
-### Padomā
+### Refleksija
+- Novērtē rezultātu
 - Kā MI saglabā sākotnējā attēla kontekstu?
 - Kas notiek ar stilu, bet kas paliek nemainīgs?
 
