@@ -2,7 +2,7 @@
 
 **Mērķi:**
 - Scenārija veidošana (MI nav tikai atbilžu sniedzējs, bet spēj **uzturēt scenāriju, noteikumus un dialogu vairākos soļos**).
-- Vienkāršas personīgās uzvednes izveidošana.
+- Vienkāršas personīgās uzvednes izveidošana ar ietvertu scenārju.
 
 Pirmajā uzdevumā tu izmēģināji:
 - uzsākt sarunu ar MI,
@@ -91,7 +91,7 @@ Rakstot uzvedni, mēģini iekļaut:
 - **mērķi** (ko tu gribi saņemt),
 - **prasības atbildei** (garums, struktūra, tonis, forma).
 
-Iedvesmai vari izmantot šo **skeletu** (vari to pārrakstīt vai neizmantot vispār):
+Iedvesmai vari izmantot šo **skeletu** (vari to pārkopēt vai izmantot citu ):
 
 ```text
 Tu esi [loma / palīgs].
@@ -104,6 +104,11 @@ Lūdzu:
 3) [prasība vai aspekts]
 
 Raksti [valoda], [stilā/tonī], [formātā].
+```
+
+Pēc izvēles papildini ar:
+```
+Sniedzot atbildi, piedāvā 2 variantus, numurējot tos ar 1 un 2 , un lūdz man izvēlēties, kuru no tiem izvērst. Ja es atbildu 1 vai 2, tad izvērs manis izvēlēto variantu detalizētāk.
 ```
 
 ### 2.3. Ievieto uzvedni Gemini un saņem atbildi
