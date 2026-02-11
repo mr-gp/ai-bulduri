@@ -88,6 +88,9 @@ Paaugstināta grūtības pakāpe (pēc izvēles):
 
 ---
 
+### Padomā par
+- Šādā veidā iespējams radīt jaunu saturu uz 2 vai vairāk dokumentu bāzes, piemēram
+
 ### ⚠️ Svarīga piezīme
 
 MI sniegtā analīze **neaizstāj jurista atzinumu**.
