@@ -16,7 +16,7 @@
 
 ## 🧠 1. solis – Sākuma uzvedne (kopē un ielīmē)
 
-Uzsāc jaunu sarunu un iekopē šo uzvedni MI rīkā:
+Uzsāc jaunu sarunu un iekopē šo uzvedni MI rīkā, pie sarunas norādot **Tools -> Canvas**:
 
 ```text
 Uzvedies kā personāla atlases speciālists ar pieredzi valsts vai izglītības iestādēs Latvijā.
@@ -57,13 +57,12 @@ Atver ģenerēto tekstu **Canvas režīmā** un turpini darbu ar dokumentu.
 ### 2.1. Manuālas korekcijas (cilvēks → MI)
 
 * Izvēlies 1–2 teikumus
-* Pārfrāzē tos pats:
+* Pārfrāzē tos pats, piemēram:
+  * vienkāršo valodu
+  * noimaini kādu vārdu pret labāku sinonīmu
+  * nodzēs nevajazīgu informāciju
 
-  * vienkāršākā valodā
-  * cilvēcīgāk
-  * bez lieka birokrātiska stila
-
-👉 MI nav autoritāte — tas ir drafts.
+👉 MI nav autoritāte — tas joprojām ir tikai uzmetums.
 
 ---
 
@@ -71,15 +70,15 @@ Atver ģenerēto tekstu **Canvas režīmā** un turpini darbu ar dokumentu.
 
 Iezīmē konkrētu rindkopu un izmanto kādu no komandām:
 
-```text
+```
 Pārfrāzē šo sadaļu vienkāršākā valodā, saglabājot profesionālu toni.
 ```
 
-```text
+```
 Saīsini šo sadaļu par ~30%, nezaudējot būtisko domu.
 ```
 
-```text
+```
 Uzvedies kā pieredzējis redaktors un uzlabo teksta plūdumu šajā sadaļā.
 ```
 
@@ -87,9 +86,9 @@ Uzvedies kā pieredzējis redaktors un uzlabo teksta plūdumu šajā sadaļā.
 
 ---
 
-## 🔄 3. solis – Lomas maiņa (īpaši vērtīgi)
+## 🔄 3. solis – Lomas maiņa (var būt noderīgi)
 
-Iezīmē visu dokumentu vai konkrētu sadaļu un ieraksti:
+Iezīmē visu dokumentu vai konkrētu sadaļu un ieraksti (neko neiezīmējot konteskts būs viss dokuments):
 
 ```text
 Uzvedies kā potenciālais kandidāts šim amatam un pasaki, kas šajā aprakstā nav skaidrs vai varētu radīt jautājumus.
@@ -101,17 +100,19 @@ Uzvedies kā potenciālais kandidāts šim amatam un pasaki, kas šajā aprakst�
 * pārāk vispārīgus formulējumus
 * potenciālus pārpratumus
 
+Apskati, kāda ir MI atbilde, ieraksti čatā kādu savu lūgmu veikt korekciju dokumentā atsaucoties uz MI atbildi.
+
 ---
 
 ## 🧹 4. solis – Formatējuma uzlabošana
 
-Lūdz MI sakārtot dokumentu lietošanai Word formātā:
+Caurskati formatējumu un ievies tajā nepieciešāmās izmaiņas, vismaz pāris vietās.
+Vari arīpalūgt MI sakārtot dokumentu lietošanai Word formātā atbilstoši sakārtojot formatējumu, piemēram ar šādu rīkojumu:
 
 ```text
 Pārformatē dokumentu tā, lai tas būtu viegli lasāms Word dokumentā:
 – skaidri virsraksti
-– vienmērīgs punktu saraksts
-– bez gariem, smagiem teikumiem
+- būtiski vārdi vai frāzes iezīmētas treknrakstā (bold)
 ```
 
 ---
@@ -119,42 +120,33 @@ Pārformatē dokumentu tā, lai tas būtu viegli lasāms Word dokumentā:
 ## 🛡️ 5. solis – Kvalitātes kontrole
 
 ```text
-Pārbaudi šo amata aprakstu un pasaki, vai tajā ir pretrunas, neskaidri formulējumi vai lieka atkārtošanās.
+Pārbaudi vēlreiz šo amata aprakstu un pasaki, vai tajā ir pretrunas, neskaidri formulējumi vai lieka atkārtošanās.
 ```
 
 👉 MI var palīdzēt pamanīt kļūdas, bet **atbildība par saturu paliek pie cilvēka**.
 
 ---
 
-## 👥 6. solis – Auditorijas pielāgošana (papildu uzdevums)
+## 👥 6. solis – Papildus opcijas
 
-Izmēģini kādu no variantiem:
+Atrodi papildus opcijas Canvas loga labajā apakšējā pusē un izmēģini funkcijas "Mainīt garumu" un "Mainīt tonoi".
 
-```text
-Pielāgo šo amata aprakstu cilvēkam bez iepriekšējas biroja darba pieredzes.
-```
-
-```text
-Pielāgo šo tekstu vadībai, kas apstiprina amata vietu.
-```
-
-👉 Viens dokuments → vairākas versijas.
+Apskati un novērtē rezultātu.
 
 ---
 
 ## 📤 7. solis – Eksports
 
-* Izvēlies **Export**
+* Izvēlies **Share -> Copy contents** vai **Export to Docs**
 * Saglabā dokumentu **DOCX formātā**
 * Dokuments ir gatavs:
-
   * nosūtīšanai kolēģiem
-  * ievietošanai mapē
   * izmantošanai reālā darbā
+  * U.tml.
 
 ---
 
-## 🧠 Galvenās atziņas
+## 🧠 Dažas atziņas
 
 * MI palīdz **sagatavot**, nevis **pieņemt lēmumus**
 * Pirmā versija nav gala versija
