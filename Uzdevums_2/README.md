@@ -3,6 +3,7 @@
 **Mērķi:**
 - Scenārija veidošana (MI nav tikai atbilžu sniedzējs, bet spēj **uzturēt scenāriju, noteikumus un dialogu vairākos soļos**).
 - Vienkāršas personīgās uzvednes izveidošana ar ietvertu scenārju.
+- Uzedņu daļu kombinēšana veicot COPY/PASTE.
 
 Pirmajā uzdevumā tu izmēģināji:
 - uzsākt sarunu ar MI,
@@ -109,7 +110,7 @@ Raksti [valoda], [stilā/tonī], [formātā].
 > **Svarīgi:**  
 > Ja vēlies papildināt uzvedni iekopējot tajā papildus informāciju, novietot tursoru nākamajā rindā var izmantojot klaviatūras taustiņu kombināciju SHIFT + ENTER.
 
-Pmēģini piekopēt pie esošās uzvednes papildus informāciju tādā veidā, lai šī daļa sāktos ar jaunu rindu.
+Pmēģini piekopēt pie esošās uzvednes papildus informāciju tādā veidā, lai šī daļa sāktos ar jaunu rindu:
 ```
 Sniedzot atbildi, piedāvā 2 variantus, numurējot tos ar 1 un 2, un lūdz man izvēlēties, kuru no tiem izvērst.
 Ja es atbildu 1 vai 2, tad izvērs manis izvēlēto variantu detalizētāk.
