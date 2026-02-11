@@ -1,8 +1,8 @@
 # Uzdevums 2 — MI kā interaktīvs domāšanas partneris
 
 **Mērķi:**
-Scenārija veidošana (MI nav tikai atbilžu sniedzējs, bet spēj **uzturēt scenāriju, noteikumus un dialogu vairākos soļos**).
-Vienkāršas personīgās uzvednes izveidošana.
+- Scenārija veidošana (MI nav tikai atbilžu sniedzējs, bet spēj **uzturēt scenāriju, noteikumus un dialogu vairākos soļos**).
+- Vienkāršas personīgās uzvednes izveidošana.
 
 Pirmajā uzdevumā tu izmēģināji:
 - uzsākt sarunu ar MI,
