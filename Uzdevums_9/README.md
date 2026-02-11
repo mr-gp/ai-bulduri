@@ -95,7 +95,8 @@ Man ir 5 uzdevumi, bet nezinu, kuru darīt pirmo.
    - Vai struktūra ir citāda?
    - Vai atbildes ir praktiskākas?
   
-> Ņem vērā
+> dd
+> dd
 
 ---
 
