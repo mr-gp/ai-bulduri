@@ -75,15 +75,11 @@ Svarīgi:
 
 ### 🧩 Papildu uzdevums (pēc izvēles)
 
-```text
-Tagad pieņem, ka esi pasūtītāja jurists.
-Klasificē iepriekš identificētos riskus trīs līmeņos:
-- kritiski,
-- vidēji,
-- zemas ietekmes.
-
-Katru klasifikāciju īsi pamato no praktiskā iepirkuma procesa skatpunkta.
-```
+Paturpini sarunu par šo dokumentu, piemēram: Precizē detaļas, noskaidro, kādi varētu būt optimāli labojumi, utml.
+Paaugstināta grūtības pakāpe (pēc izvēles):
+- Pamēģini uzsākt Canvas jaunu režīmu ar šo dokumentu (vislabāk uzsākot jaunu čatu un pievienojot pielikumu)
+- Sakārtot numerāciju ja nepieciešams, atkāroti pieteikt Publisko iepirkumu jurista uzvedni, un šo to pielabot.
+- Izeksportēt laboto versiju uz DOCX.
 
 ---
 
