@@ -1,9 +1,10 @@
 # Uzdevums 2 — MI kā interaktīvs domāšanas partneris
 
-**Mērķis:** saprast, ka MI nav tikai atbilžu sniedzējs,  
-bet spēj **uzturēt scenāriju, noteikumus un dialogu vairākos soļos**.
+**Mērķi:**
+Scenārija veidošana (MI nav tikai atbilžu sniedzējs, bet spēj **uzturēt scenāriju, noteikumus un dialogu vairākos soļos**).
+Vienkāršas personīgās uzvednes izveidošana.
 
-Pirmajā uzdevumā tu iemācījies:
+Pirmajā uzdevumā tu izmēģināji:
 - uzsākt sarunu ar MI,
 - precizēt jautājumus,
 - pielāgot atbildes ar instrukcijām un profila iestatījumiem.
@@ -30,8 +31,7 @@ Tu pārliecināsies, ka ar MI var:
 
 ## Kāpēc tas ir svarīgi
 
-Daudzos ikdienas darbos MI netiek izmantots kā
-“vienreizējs jautājums → viena atbilde” rīks.
+Daudzos ikdienas darbos MI netiek izmantots kā “vienreizējs jautājums → viena atbilde” rīks.
 
 Reālajā dzīvē MI var būt:
 - sarunu partneris,
@@ -50,31 +50,30 @@ Reālajā dzīvē MI var būt:
 Tālāk sekos praktisks scenārijs, kurā tu pats pārliecināsies,
 kā MI uztur sarunu vairākos soļos.
 
-
-
 ## 1) Spēle: “Matemātikas treniņš” (3 raundi)
+Uzsāc jaunu sarunu uz izmanto šādu uzvedni:
 ```text
 Tu esi mans draudzīgais spēles partneris.
 Noteikumi:
-- Spēle sastāv no 3 raundiem
-- Katru raundu tu iedod 1 salīdzinoši viegli atrisināmu matemātisku uzdevumu un 3 atbildes variantus.
+- Spēle sastāv no 3-5 posmiem
+- Katrā posmā tu iedod 1 salīdzinoši viegli atrisināmu matemātisku uzdevumu un 3 atbildes variantus.
 - Es izvēlos variantu 1–3, un tu turpini ar nākamo raundu.
 - Tu jautā tikai vienu jautājumu vienā reizē (lai ir viegli atbildēt).
 - Jautājumiem ir jābūt tādiem, lai ar nelielu pielūli tos varētu izrēķināt galvā.
 
-Sāc ar 1. raundu un gaidi manu izvēli (1-3) vai skaitlisku pareizo atbildi.
-Rezultātā kad visi raundi ir izieti, iedod lietotājam radošu retrospektīvu uzmindrinājumu, kas ir saistīts ar šo pieredzi.
+Sāc ar 1. raundu un gaidi manu izvēli (1-3) vai skaitlisku pareizo atbildi. Katrs nākamais posms ir saistīts ar iepriekšējā posma atbildi, veidojot sižetu.
+Rezultātā kad visi posmi ir izieti, iedod lietotājam radošu retrospektīvu uzmindrinājumu, kas ir saistīts ar šo pieredzi.
 ```
 
 ---
 
-## Ātra pašrefleksija (1 minūte)
+## Ātra pašrefleksija
 
 Atbildi sev:
 - Kas mani pārsteidza?
 - Kādas vēl idejas man varētu būt, lai šo spēli padarītu interesantāku?
 
-## 2) Uzdevums — izveido savu uzvedni (promptu)
+## 2. Uzdevums — izveido pats savu uzvedni (promptu)
 
 Tagad **tu pats esi autors**.
 
