@@ -55,22 +55,32 @@ Saglabā Gem.
 
 # 🧪 9.3. Testē savu Gem
 
+Atrodi savu izveidoto Gem sadaļā "Gem roboti".
 Izmēģini vairākas sarunas.
 
 ## Piemērs 1
 
-Man ir pārāk daudz e-pastu un nevaru saprast, ar ko sākt.
+Uzsāc jaunu sarunu šajā Gem:
 
+```
+Man ir pārāk daudz e-pastu un nevaru saprast, ar ko sākt.
+```
 
 ## Piemērs 2
 
-Sagatavo man īsu atbildi klientam, kurš kavē maksājumu.
+Uzsāc jaunu sarunu šajā Gem:
 
+```
+Sagatavo man īsu atbildi klientam, kurš kavē maksājumu.
+```
 
 ## Piemērs 3
 
-Man ir 5 uzdevumi, bet nezinu, kuru darīt pirmo.
+Uzsāc jaunu sarunu šajā Gem:
 
+```
+Man ir 5 uzdevumi, bet nezinu, kuru darīt pirmo.
+```
 
 ---
 
@@ -84,6 +94,8 @@ Man ir 5 uzdevumi, bet nezinu, kuru darīt pirmo.
    - Vai tonis atšķiras?
    - Vai struktūra ir citāda?
    - Vai atbildes ir praktiskākas?
+  
+> Ņem vērā
 
 ---
 
@@ -93,11 +105,14 @@ Tagad uzlabo sava Gem instrukciju.
 
 Piemēram, pievieno:
 
-- "Vienmēr strukturē atbildi 3 soļos."
-- "Vienmēr beigās uzdod vienu precizējošu jautājumu."
-- "Ja iespējams, piedāvā arī alternatīvu risinājumu."
+```
+Papildus instrukcijas:
+- Vienmēr strukturē atbildi 3 soļos.
+- Vienmēr beigās uzdod vienu precizējošu jautājumu.
+- Ja iespējams, piedāvā arī alternatīvu risinājumu.
+```
 
-Pārbaudi, kā mainās rezultāts.
+Saglabā un pārbaudi, kā mainās rezultāts uzsākot jaunu sarunu šajā Gem.
 
 ---
 
