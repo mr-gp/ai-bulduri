@@ -27,8 +27,9 @@ Pievērs uzmanību:
 Strādājot ar AI informācijas meklēšanu, ir vērts **vienreiz globālajās instrukcijās**
 (piemēram, rīka iestatījumos vai projekta sākumā) norādīt šo principu:
 
-> Ja iespējams, vienmēr pievieno informācijas avotus (URL saites),
-> īpaši, ja sniedz faktus, notikumus vai apgalvojumus.
+```
+Ja iespējams, vienmēr pievieno informācijas avotus (URL saites), īpaši, ja sniedz faktus, notikumus vai apgalvojumus.
+```
 
 ---
 
