@@ -3,20 +3,20 @@
 ## 🎯 Mērķis
 
 Pieredzēt, ka mākslīgais intelekts nav tikai darbam pie datora –  
-tas var kļūt par ikdienas palīgu jūsu telefonā.
+tas var kļūt par ikdienas palīgu tavā telefonā.
 
 Šī uzdevuma mērķis ir:
 
-- uzinstalēt **Google Gemini** lietotni telefonā,
-- ielogoties ar savu Google kontu,
-- atkārtot dažus no šodien darītajiem uzdevumiem mobilajā ierīcē,
-- saprast, kā AI var palīdzēt ikdienas situācijās.
+- Uzinstalēt **Google Gemini** lietotni telefonā.
+- Ielogoties ar savu Google kontu.
+- Atrast un atkārtot dažus no šodien darītajiem uzdevumiem mobilajā ierīcē.
+- Saprast, kā AI var palīdzēt ikdienas situācijās.
 
 ---
 
 ## 📲 1. solis – Instalācija
 
-1. Izņemiet telefonu.
+1. Paņemiet savu telefonu.
 2. Atveriet:
    - **Google Play** (Android)  
    - vai **App Store** (iPhone)
@@ -27,7 +27,7 @@ tas var kļūt par ikdienas palīgu jūsu telefonā.
 
 ## 🔐 2. solis – Ielogošanās
 
-1. Atveriet lietotni.
+1. Atveriet lietotni **Google Gemini**.
 2. Ielogojieties ar savu Google kontu.
 3. Pārbaudiet, vai viss darbojas (uzdodiet vienkāršu jautājumu, piemēram:  
    *“Kas šodien ir par datumu?”*)
@@ -58,35 +58,26 @@ Apkopo galveno informāciju no šī attēla.
 
 ---
 
-## 🎙️ 4. solis – Balss režīms
+## 🎙️ 4. solis – Balss režīms (pēc izvēles)
 
-Pamēģiniet uzdot jautājumu ar balsi.
+Pameklkē balss ievades režīmu, ja vari to atrast - pamēģini uzdot jautājumu ar balsi.
 
 Piemēram:
 - Izskaidro, kas ir mākslīgais intelekts ļoti vienkāršā valodā.
 - Palīdzi man noformulēt atbildi uz sarežģītu e-pastu.
 
-Novērtējiet:
-- Vai tas ir ātrāk?
-- Vai tas ir ērtāk nekā rakstīt?
-
 ---
 
 ## 🔎 5. Refleksija
 
-Padomājiet un pārrunāsim kopā:
-
-- Vai jūs redzat sev praktisku pielietojumu?
-- Kurās situācijās tas būtu noderīgi?
-- Vai tas varētu ietaupīt laiku?
-- Vai redzat arī riskus?
+- Pie kādiem scerārijiem lietot telefonu un piekādiem - datoru?
+- Kas varētu būt tās lietas, kas uz datora nav pieejamas?
 
 ---
 
 ## 💡 Galvenā atziņa
 
-AI nav tikai tehnoloģija.  
-Tas ir **palīgs, kas vienmēr ir līdzi**.
+MI ir **palīgs, kas vienmēr ir līdzi**.
 
 Ja datorā tas palīdz produktivitātei,  
 tad telefonā tas kļūst par:
@@ -99,23 +90,8 @@ tad telefonā tas kļūst par:
 
 ---
 
-## ⚠️ Atceries par drošību
-
-- Neaugšupielādē sensitīvus datus.
-- Nedali paroles vai konfidenciālu informāciju.
-- Vienmēr pārbaudi būtiskus faktus.
-
-Atbildība par rezultātu paliek pie tevis.
-
----
-
 # 🏁 Noslēguma doma
 
-Ja AI ir pieejams tavā kabatā,  
-tad jautājums vairs nav:
+MI ir pieejams un vienmēr līdzi tavā kabatā :)
 
-> “Vai man vajag mākslīgo intelektu?”
-
-Bet gan:
-
-> “Kā es to izmantošu gudri?”
+---
