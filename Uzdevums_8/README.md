@@ -27,8 +27,9 @@ Izvēlies sev aktuālu tēmu. Tā var būt:
 
 ## 🤖 2. solis – Izveido Gamma uzvedni ar Gemini palīdzību
 
-Atver Gemini un uzraksti uzdevumu:
+Atver Gemini un uzraksti uzdevumu, piemēram:
 
+```
 > Izveido detalizētu uzvedni Gamma prezentācijas sagatavošanai par tēmu: "[TAVA TĒMA]".  
 > Prezentācijai jābūt 10 slaidiem.  
 > Norādi katra slaida virsrakstu un īsu aprakstu, ko iekļaut.  
@@ -36,13 +37,13 @@ Atver Gemini un uzraksti uzdevumu:
 > Tonis: profesionāls, bet saprotams.  
 > Iekļauj praktiskus piemērus.  
 > Prezentācija latviešu valodā.
+```
 
-### 🔎 Papildini uzvedni ar:
+### 🔎 Papildini uzvedni ar sevi interesējošu informāciju, piemēram ar:
 - Mērķauditoriju
 - Vēlamo detalizācijas līmeni
 - Vai nepieciešami piemēri
 - Vai vajadzīgi statistikas dati
-- Vai vēlies diskusiju jautājumus beigās
 
 ---
 
@@ -62,7 +63,7 @@ Atceries: pirmā atbilde nav gala rezultāts.
 
 ## 🎨 4. solis – Izmanto Gamma
 
-1. Atver Gamma
+1. Atver Gamma 
 2. Iekopē Gemini sagatavoto uzvedni
 3. Ģenerē prezentāciju
 4. Izvēlies piemērotu dizainu
