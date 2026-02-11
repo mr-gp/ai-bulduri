@@ -51,9 +51,9 @@ Noteikumi:
 ## 🔍 Papildu uzdevums – Perplexity.ai
 
 1. Atver https://www.perplexity.ai  
-2. Spied **Sign in**
-3. Izvēlies **Continue with Google**
-4. Autorizējies ar Google kontu
+2. (nav obligāti, bet eksperimenta dēļ - vēlams) Spied **Sign in**
+3. (nav obligāti, bet eksperimenta dēļ - vēlams) Izvēlies **Continue with Google**
+4. (nav obligāti, bet eksperimenta dēļ - vēlams) Autorizējies ar Google kontu
 5. Ievadi **to pašu meklēšanas frāzi**
 6. Salīdzini rezultātu ar iepriekšējo MI rīku
 
