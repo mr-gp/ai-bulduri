@@ -140,7 +140,6 @@ Padomā:
 - Kas uzvednē strādāja labi?
 - Ko es nākamreiz formulētu precīzāk?
 
-> **Šī uzdevuma būtība:**  
-> MI atbilžu kvalitāte ļoti bieži ir tieši atkarīga no tā, cik skaidri un precīzi mēs paši formulējam savu domu.
+---
 
 
