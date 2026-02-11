@@ -1,7 +1,7 @@
 # Uzdevums 1 — Iepazīšanās ar Google Gemini (saruna ar MI)
 
 **Mērķi:**
-- Iemācīties sākt sarunu ar MI, turpināt to ar precizējumiem un izmēģināt interaktīvu mini-spēli.
+- Sākt sarunu ar MI, turpināt to ar precizējumiem un izmēģināt interaktīvu mini-spēli.
 - Iemācīties instrukciju un norādījumu lomu sadarbībā ar MI.
 
 ---
@@ -24,7 +24,7 @@ Pieslēdzies ar savu Google kontu (ja prasa).
 
 ---
 
-## 2) Izpēti saskarni (2 minūtes)
+## 2) Izpēti saskarni
 
 Atrodi:
 - **New chat** (jauna saruna)
@@ -85,7 +85,7 @@ Kā panākt, lai kartupeļi ārpusē ir kraukšķīgi, bet iekšā mīksti?
 Iedod 3 praktiskus trikus.
 ```
 
-## Ātra pašrefleksija (1 minūte)
+## Ātra pašrefleksija
 
 Atbildi sev:
 - Kas mani pārsteidza?
@@ -112,6 +112,11 @@ Mērķis: sajust atšķirību starp
 
 ### 5.2. Pievieno personīgās instrukcijas (kopē/ielīmē)
 
+> **Svarīgi:**  
+> Profila instrukcijās **neievadi sensitīvus datus**  
+> (paroles, personas kodus, algu informāciju u.c.).  
+> Raksti tikai tādu informāciju, ko būtu droši atkārtot arī skaļi.
+
 Ievieto šādu tekstu savā profila instrukciju laukā:
 
 ```text
@@ -123,6 +128,8 @@ Ja jautājums ir neskaidrs, uzdod precizējošu jautājumu.
 ```
 
 Tekstam vari pievienot papildus infomrāciju, ja vēlies lai Gemini par tevi kaut ko papildus zinātu.
+
+Pievērs uzmanību, ka instrukcija var tikt sadalītas vairākos blokos, un katru no tiem var rediģēt individuāli.
 
 Saglabā izmaiņas.
 
@@ -146,9 +153,9 @@ Pievērs uzmanību:
 ### 5.4. Mini salīdzinājums (pēc izvēles)
 
 Ja vēlies, vari:
-- uz laiku izdzēst profila instrukcijas,
+- uz laiku izdzēst vai izmainīt profila instrukcijas, piemēram, ieviešot papildus kritēriju, kas, piešķir atbildēm, piemēram, humoru, filozofiju, vai ko citu.
 - uzdot to pašu jautājumu vēlreiz,
-- un salīdzināt atbildes.
+- un salīdzini atbildes.
 
 ---
 
@@ -161,8 +168,3 @@ Ja vēlies, vari:
 - MI kļūst par pastāvīgu, pielāgotu palīgu, nevis nejaušu atbilžu ģeneratoru.
 
 ---
-
-> **Svarīgi:**  
-> Profila instrukcijās **neievadi sensitīvus datus**  
-> (paroles, personas kodus, algu informāciju u.c.).  
-> Raksti tikai tādu informāciju, ko būtu droši atkārtot arī skaļi.
