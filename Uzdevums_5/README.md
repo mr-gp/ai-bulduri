@@ -24,7 +24,7 @@ Pievērs uzmanību:
 
 ## 🧠 Par informācijas avotiem (URL)
 
-Strādājot ar AI informācijas meklēšanu, ir vērts **vienreiz globālajās instrukcijās**
+Strādājot ar MI informācijas meklēšanu, ir vērts **vienreiz globālajās instrukcijās**
 (piemēram, rīka iestatījumos vai projekta sākumā) norādīt šo principu:
 
 ```
