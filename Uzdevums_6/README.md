@@ -32,7 +32,7 @@ un potenciāli problemātiskiem formulējumiem iepirkumu līgumos.
 
 Tavs uzdevums:
 Izanalizēt pievienoto dokumentu
-“8.pielikums_Iepirkuma līguma projekts.docx”
+“LigumaProjekts.docx”
 (Bulduru tehnikuma elektroenerģijas piegādes līguma projekts)
 un izvērtēt tā atbilstību:
 
