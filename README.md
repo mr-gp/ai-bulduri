@@ -15,7 +15,7 @@ Repozitorija struktūra ir izveidota tādā veidā, lai sniegtu dalībniekiem el
 
 ## 📌 Kam paredzēts šis repozitorijs
 
-- Apmācību dalībniekiem prezentāciju un praktisko nodarbību laikā.
+- Mācību dalībniekiem prezentāciju un praktisko nodarbību laikā.
 - Patstāvīgai vingrināšanai pēc apmācībām.
 - Kā iedvesmas avots idejām, kā MI var palīdzēt dažādās darba situācijās.
 
