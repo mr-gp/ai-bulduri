@@ -49,7 +49,7 @@ Katra uzdevuma mapē atrodas:
 3. **[Uzdevums 3](./Uzdevums_3/README.md)** – Darbs Canvas režīmā: no uzvednes līdz gatavam dokumentam
 4. **[Uzdevums 4](./Uzdevums_4/README.md)** – Attēlu ģenerēšana ar Nano Banana
 5. **[Uzdevums 5](./Uzdevums_5/README.md)** – Informācijas meklēšana ar MI
-6. **[Uzdevums 6](./Uzdevums_6/README.md)** – Publiskā iepirkuma līguma analīze ar MI
+6. **[Uzdevums 6](./Uzdevums_6/README.md)** – Dokumentu analīze ar MI
 7. **[Uzdevums 7](./Uzdevums_7/README.md)** – Datu analīze ar mākslīgo intelektu, izmantojot Excel failu
 8. **[Uzdevums 8](./Uzdevums_8/README.md)** – Izveido savu Custom Gem
 9. **[Uzdevums 9](./Uzdevums_9/README.md)** – Izveido savu Gamma prezentāciju ar MI palīdzību
@@ -79,8 +79,8 @@ Nav "pareizu" vai "nepareizu" atbilžu – svarīgs ir **process, eksperimentē�
 
 | Laiks           | Formāts         | Tēmas                                          |
 |-----------------|-----------------|------------------------------------------------|
-| 10:00–11:00     | Teorija         | MI pielietojums biznesa automatizācijai<br>MI nākotnes attīstības tendences<br>Jautājumi / atbildes |
-| 11:00–12:00     | Prakse          | Praktiskās nodarbība, turpinājums<br>Jautājumi / atbildes |
+| 10:00–11:30     | Prakse          | Praktiskās nodarbība, turpinājums<br>Jautājumi / atbildes |
+| 11:30–12:00     | Teorija          | MI pielietojums biznesa automatizācijai<br>Jautājumi / atbildes |
 | 12:00–13:00     | Pārtraukums     | —                                              |
 | 13:00–15:00     | Brīvā forma     | Rezervēts laiks<br>Jautājumi/atbildes<br>Brīva formāta debates |
 
@@ -96,8 +96,7 @@ kas nodrošina ērtāku un interaktīvāku mācību procesu.
 - 📘 [Kas ir MI?](https://gamma.app/docs/1vidpclc6w7o9a6) (Lai skatītu tiešsaistē spiest [šeit](https://gamma.app/docs/2-Kas-ir-MI-1vidpclc6w7o9a6?following_id=z08afx4h5wtjwun&follow_on_start=true))]
 - 📘 [Dati un to nozīme MI vidē](https://gamma.app/docs/fqkfsd936iw6zeg) (Lai skatītu tiešsaistē spiest [šeit](https://gamma.app/docs/3-Dati-fqkfsd936iw6zeg?following_id=z08afx4h5wtjwun&follow_on_start=true))
 - 📘 [Uzvedņu sagatavošana](https://gamma.app/docs/l3ppgopdequlyf6) (Lai skatītu tiešsaistē spiest [šeit](https://gamma.app/docs/l3ppgopdequlyf6?following_id=z08afx4h5wtjwun&follow_on_start=true))
-- 📘 [Mākslīgais intelekts biznesa automatizācijā](https://gamma.app/docs/yb5xu0d7wat1wtq) (Lai skatītu tiešsaistē spiest [šeit](https://gamma.app/docs/Maksligais-intelekts-biznesa-automatizacija-yb5xu0d7wat1wtq?following_id=z08afx4h5wtjwun&follow_on_start=true))
-- 
+- 📘 [Mākslīgais intelekts biznesa automatizācijā](https://gamma.app/docs/yb5xu0d7wat1wtq) (Lai skatītu tiešsaistē spiest [šeit](https://gamma.app/docs/Maksligais-intelekts-biznesa-automatizacija-yb5xu0d7wat1wtq?following_id=z08afx4h5wtjwun&follow_on_start=true)) 
 
 ---
 
