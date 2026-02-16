@@ -1,9 +1,9 @@
-# AI praktisko uzdevumu repozitorijs
+# MI praktisko uzdevumu repozitorijs
 
 Šis repozitorijs satur praktiskos uzdevumus, piemērus un palīgmateriālus,
-kas tiek izmantoti klātienes apmācībās **“Mākslīgā intelekta (AI) rīku izmantošana ikdienas darbam un biznesam”**.
+kas tiek izmantoti klātienes apmācībās **“Mākslīgā intelekta (MI) rīku izmantošana ikdienas darbam un biznesam”**.
 
-Mērķis – dot dalībniekiem iespēju **praktiski izmēģināt AI rīkus**, saprast to iespējas
+Mērķis – dot dalībniekiem iespēju **praktiski izmēģināt MI rīkus**, saprast to iespējas
 un iemācīties tos efektīvi un droši izmantot ikdienas darbā.
 
 ---
@@ -12,7 +12,7 @@ un iemācīties tos efektīvi un droši izmantot ikdienas darbā.
 
 - Apmācību dalībniekiem prezentāciju un praktisko nodarbību laikā  
 - Patstāvīgai vingrināšanai pēc apmācībām
-- Kā iedvesmas avots idejām, kā AI var palīdzēt dažādās darba situācijās
+- Kā iedvesmas avots idejām, kā MI var palīdzēt dažādās darba situācijās
 
 Šis **nav programmēšanas kurss** un neprasa tehniskas priekšzināšanas.
 
@@ -36,11 +36,24 @@ Apmācībās kā galvenais rīks tiek izmantots **Google Gemini**, taču pieliet
 Repozitorijs ir organizēts sekojošā veidā:
 
 - **README.md** – šis dokuments ar vispārēju informāciju un apmācību plānu
-- **Uzdevums_1** līdz **Uzdevums_X** – mapes, kas satur praktiskos uzdevumus
+- **Uzdevums_1** līdz **Uzdevums_10** – mapes, kas satur praktiskos uzdevumus
 
 Katra uzdevuma mapē atrodas:
 - `README.md` fails ar uzdevuma aprakstu
 - Papildu materiāli (ja nepieciešams)
+
+### 📋 Uzdevumu saraksts
+
+1. **[Uzdevums 1](./Uzdevums_1/README.md)** – Iepazīšanās ar Google Gemini (saruna ar MI)
+2. **[Uzdevums 2](./Uzdevums_2/README.md)** – MI kā interaktīvs sarunu partneris
+3. **[Uzdevums 3](./Uzdevums_3/README.md)** – Darbs Canvas režīmā: no uzvednes līdz gatavam dokumentam
+4. **[Uzdevums 4](./Uzdevums_4/README.md)** – Attēlu ģenerēšana ar Nano Banana
+5. **[Uzdevums 5](./Uzdevums_5/README.md)** – Informācijas meklēšana ar MI
+6. **[Uzdevums 6](./Uzdevums_6/README.md)** – Publiskā iepirkuma līguma analīze ar MI
+7. **[Uzdevums 7](./Uzdevums_7/README.md)** – Datu analīze ar mākslīgo intelektu, izmantojot Excel failu
+8. **[Uzdevums 8](./Uzdevums_8/README.md)** – Izveido savu Custom Gem
+9. **[Uzdevums 9](./Uzdevums_9/README.md)** – Izveido savu Gamma prezentāciju ar MI palīdzību
+10. **[Uzdevums 10](./Uzdevums_10/README.md)** – MI palīgs manā kabatā
 
 ### 🛠 Kā strādāt ar uzdevumiem
 
@@ -58,7 +71,7 @@ Nav "pareizu" vai "nepareizu" atbilžu – svarīgs ir **process, eksperimentē�
 
 | Laiks           | Formāts         | Tēmas                                          |
 |-----------------|-----------------|------------------------------------------------|
-| 10:00–12:00     | Teorija         | Iepazīšanās ar dalībniekiem<br>Kas ir mākslīgais intelekts?<br>Dati un to nozīme AI vidē<br>Uzvedņu sagatavošana<br>MI rīki ikdienas darbam<br>Jautājumi / atbildes |
+| 10:00–12:00     | Teorija         | Iepazīšanās ar dalībniekiem<br>Kas ir mākslīgais intelekts?<br>Dati un to nozīme MI vidē<br>Uzvedņu sagatavošana<br>MI rīki ikdienas darbam<br>Jautājumi / atbildes |
 | 12:00–13:00     | Pārtraukums     | —                                              |
 | 13:00–15:00     | Prakse          | Tekstu veidošana un ideju ģenerēšana<br>Informācijas meklēšana ar MI<br>Darbs ar dokumentiem un prezentācijām<br>Reāli piemēri no ikdienas darba<br>Jautājumi / atbildes |
 
@@ -92,7 +105,7 @@ kas nodrošina ērtāku un interaktīvāku mācību procesu.
 
 ⚠️ **Svarīgi ievērot**  
 
-Strādājot ar AI rīkiem apmācību uzdevumos:
+Strādājot ar MI rīkiem apmācību uzdevumos:
 - **Neizmantojiet** reālus personas datus
 - **Neizmantojiet** sensitīvu vai konfidenciālu informāciju
 
@@ -104,9 +117,9 @@ Ja nepieciešami piemēri, izmantojiet **izdomātus, anonimizētus vai publiskus
 
 Mācību pamatā ir praktiska un lietišķa pieeja:
 
-- **AI kā biznesa rīks** – mākslīgais intelekts ir efektivitātes palielinātājs, nevis automatizēts risinājums
+- **MI kā biznesa rīks** – mākslīgais intelekts ir efektivitātes palielinātājs, nevis automatizēts risinājums
 - **Kvalitāte atkarīga no ievades** – precīzi formulēti jautājumi un konteksts nodrošina vērtīgus rezultātus  
-- **Atbildīga lietošana** – galīgā atbildība par AI radīto saturu un lēmumiem vienmēr ir lietotājam
+- **Atbildīga lietošana** – galīgā atbildība par MI radīto saturu un lēmumiem vienmēr ir lietotājam
 - **Kritiskā domāšana** – MI rezultāti ir jāizvērtē, jāvalidē un jāpielāgo konkrētai situācijai  
 
 ---
@@ -123,7 +136,7 @@ specializējoties infomrācijas sistēmu uzbūvē, datos un mākslīgajā intele
 - [Google Gemini](https://gemini.google.com/) – Izmantotā MI platforma šajās mācībās
 - [ChatGPT](https://chat.openai.com/) – Alternatīvs MI rīks, kuru arī var izmantot
 - [Microsoft Copilot](https://copilot.microsoft.com/) – Integrēts Microsoft ekosistēmā
-- [Gamma](https://gamma.app/) – Prezentāciju izveides rīks ar AI atbalstu
+- [Gamma](https://gamma.app/) – Prezentāciju izveides rīks ar MI atbalstu
 - [GitHub](https://github.com/) – Plaši izmantots MI rīks informācijas sistēmu izstrādes automatizācijai
 
 ---

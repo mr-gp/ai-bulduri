@@ -1,34 +1,35 @@
-# 10. uzdevums – AI palīgs manā kabatā 📱
+# 🎯 Uzdevums 10 – MI palīgs manā kabatā
 
 ## 🎯 Mērķis
-
 Pieredzēt, ka mākslīgais intelekts nav tikai darbam pie datora –  
 tas var kļūt par ikdienas palīgu tavā telefonā.
+
+Tu esi apguvis MI izmantošanu datorā dažādiem uzdevumiem. Noslēdzot šo apmācību ceļu, pārnessim MI arī mobilajā ierīcē, lai tas būtu pieejams jebkurā vietā un laikā.
 
 Šī uzdevuma mērķis ir:
 
 - Uzinstalēt **Google Gemini** lietotni telefonā.
 - Ielogoties ar savu Google kontu.
 - Atrast un atkārtot dažus no šodien darītajiem uzdevumiem mobilajā ierīcē.
-- Saprast, kā AI var palīdzēt ikdienas situācijās.
+- Saprast, kā MI var palīdzēt ikdienas situācijās.
 
 ---
 
 ## 📲 1. solis – Instalācija
 
-1. Paņemiet savu telefonu.
-2. Atveriet:
+1. Paņem savu telefonu.
+2. Atver:
    - **Google Play** (Android)  
    - vai **App Store** (iPhone)
 3. Atrodiet lietotni: **Google Gemini**
-4. Uzinstalējiet to.
+4. Uzinstalē to.
 
 ---
 
 ## 🔐 2. solis – Ielogošanās
 
-1. Atveriet lietotni **Google Gemini**.
-2. Ielogojieties ar savu Google kontu.
+1. Atver lietotni **Google Gemini**.
+2. Ielogojies ar savu Google kontu.
 3. Pārbaudiet, vai viss darbojas (uzdodiet vienkāršu jautājumu, piemēram:  
    *“Kas šodien ir par datumu?”*)
 
@@ -36,7 +37,7 @@ tas var kļūt par ikdienas palīgu tavā telefonā.
 
 ## 🧠 3. solis – Atkārtojam jau darīto
 
-Pamēģiniet telefonā izdarīt vismaz 3 no šīm darbībām:
+Pamēģini telefonā izdarīt vismaz 3 no šīm darbībām:
 
 ### ✍️ Teksta uzdevums
 Sagatavo īsu e-pastu kolēģim par tikšanās pārcelšanu.
@@ -45,7 +46,7 @@ Sagatavo īsu e-pastu kolēģim par tikšanās pārcelšanu.
 Kādi ir pozitīvi notikumi Latvijā pēdējā mēneša laikā? Pievieno saites.
 
 ### 📊 Ideju ģenerēšana
-Iedod 5 idejas, kā izmantot AI izglītības iestādē.
+Iedod 5 idejas, kā izmantot MI izglītības iestādē.
 
 ### 📷 Attēla analīze
 Nofotografējiet:

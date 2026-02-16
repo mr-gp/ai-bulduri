@@ -1,11 +1,12 @@
-# 4. uzdevums – Attēlu ģenerēšana ar Nano Banana
+# 🎯 Uzdevums 4 – Attēlu ģenerēšana ar Nano Banana
 
-## Uzdevuma mērķis
-Šī uzdevuma mērķis ir:
-- saprast, kā MI veido attēlus no teksta un attēliem,
-- iemācīties rakstīt efektīvus attēlu promptus,
-- saprast, kā konteksts un detaļas ietekmē rezultātu,
-- droši un atbildīgi izmantot attēlu ģenerēšanas iespējas.
+## 🎯 Mērķis
+- Saprast, kā MI veido attēlus no teksta un attēliem.
+- Iemācīties rakstīt efektīvus attēlu promptus.
+- Saprast, kā konteksts un detaļas ietekmē rezultātu.
+- Droši un atbildīgi izmantot attēlu ģenerēšanas iespējas.
+
+Tu jau esi apguvis teksta veidošanu ar MI. Tagad izmēģināsim MI spējas radīt vizuālu saturu – attēlus. Uzvedņu rakstīšanas prasmes, ko iemācījies iepriekšējos uzdevumos, būs noderīgas arī šeit.
 
 ---
 

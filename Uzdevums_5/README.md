@@ -1,10 +1,11 @@
-## 🧩 5. uzdevums – Informācijas meklēšana ar MI
+# 🎯 Uzdevums 5 – Informācijas meklēšana ar MI
 
-### 🎯 Mērķis
-Iemācīties:
-- meklēt informāciju ar īsām, dabiskām frāzēm,
-- saņemt rezultātus **ar avotu saitēm**,
-- salīdzināt dažādus AI meklēšanas rīkus.
+## 🎯 Mērķis
+- Meklēt informāciju ar īsām, dabiskām frāzēm.
+- Saņemt rezultātus **ar avotu saitēm**.
+- Salīdzināt dažādus MI meklēšanas rīkus.
+
+Līdz šim tu esi izmantojis MI satura veidošanai. Tagad apgūsim citu svarīgu MI lietojumu – informācijas meklēšanu. MI var būt ne tikai satura radītājs, bet arī "gudrāks" meklētājs.
 
 ---
 
@@ -36,7 +37,7 @@ Ja iespējams, vienmēr pievieno informācijas avotus (URL saites), īpaši, ja 
 ## 2. daļa – savs meklēšanas scenārijs
 
 Izveido **savu īso meklēšanas frāzi**, piemēram:
-- AI tendences izglītībā ar avotiem
+- MI tendences izglītībā ar avotiem
 - Pozitīvas tehnoloģiju ziņas Eiropā
 - Vides iniciatīvas Latvijā ar saitēm
 - Digitalizācijas piemēri valsts sektorā
@@ -73,4 +74,4 @@ vai
 ### Kuram informācijas meklēšanas rīkam tu iedotu priekšroku un kāpēc?
 - Google
 - Gemini (vai ChatGPT)
-- Perplexity AI
+- Perplexity MI

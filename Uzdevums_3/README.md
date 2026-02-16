@@ -1,7 +1,9 @@
-# 🧩 Uzdevums Nr. 3 – Darbs Canvas režīmā: no uzvednes līdz gatavam dokumentam
+# 🎯 Uzdevums 3 – Darbs Canvas režīmā: no uzvednes līdz gatavam dokumentam
 
-## 🎯 Uzdevuma mērķis
+## 🎯 Mērķis
 Ģenerēt ideju un dokumentu uzmetumus un **praktisku palīgu dokumentu sagatavošanā**.
+
+Iepriekšējos uzdevumos tu iepazinies ar MI pamatiem un sarunu vadīšanu. Tagad izmantosim šīs prasmes, lai izveidotu reālu dokumentu ar Canvas režīma palīdzību.
 
 Šajā uzdevumā:
 - Izveidosim sagatavi aprakstītai idejai.

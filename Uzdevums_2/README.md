@@ -1,9 +1,9 @@
-# Uzdevums 2 — MI kā interaktīvs sarunu partneris
+# 🎯 Uzdevums 2 — MI kā interaktīvs sarunu partneris
 
-**Mērķi:**
+## 🎯 Mērķis
 - Scenārija veidošana (MI nav tikai atbilžu sniedzējs, bet spēj **uzturēt scenāriju, noteikumus un dialogu vairākos soļos**).
-- Vienkāršas personīgās uzvednes izveidošana ar ietvertu scenārju.
-- Uzedņu daļu kombinēšana veicot COPY/PASTE.
+- Vienkāršas personīgās uzvednes izveidošana ar ietvertu scenāriju.
+- Uzvedņu daļu kombinēšana veicot COPY/PASTE.
 
 Pirmajā uzdevumā tu izmēģināji:
 - uzsākt sarunu ar MI,
