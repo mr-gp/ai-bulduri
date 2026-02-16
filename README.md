@@ -1,4 +1,4 @@
-# MI praktisko uzdevumu repozitorijs
+# MI mācību infomācijas, materiālu un praktisko uzdevumu repozitorijs
 
 Šis repozitorijs satur praktiskos uzdevumus, piemērus un palīgmateriālus,
 kas tiek izmantoti klātienes apmācībās **“Mākslīgā intelekta (MI) rīku izmantošana ikdienas darbam un biznesam”**.
