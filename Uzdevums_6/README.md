@@ -1,7 +1,6 @@
-# 6. praktiskais uzdevums  
-## Publiskā iepirkuma līguma analīze ar MI
+# 🎯 Uzdevums 6 – Publiskā iepirkuma līguma analīze ar MI
 
-### 🎯 Uzdevuma mērķis
+## 🎯 Mērķis
 Izmantot mākslīgā intelekta rīku kā **uzmanīga jurista palīgu**, lai savlaicīgi pamanītu
 potenciālus riskus, neskaidrības un problemātiskus formulējumus publiskā iepirkuma
 līguma projektā, pirms tie rada problēmas iepirkuma procesā vai līguma izpildē.

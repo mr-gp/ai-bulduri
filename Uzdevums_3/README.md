@@ -1,6 +1,6 @@
-# 🧩 Uzdevums Nr. 3 – Darbs Canvas režīmā: no uzvednes līdz gatavam dokumentam
+# 🎯 Uzdevums 3 – Darbs Canvas režīmā: no uzvednes līdz gatavam dokumentam
 
-## 🎯 Uzdevuma mērķis
+## 🎯 Mērķis
 Ģenerēt ideju un dokumentu uzmetumus un **praktisku palīgu dokumentu sagatavošanā**.
 
 Šajā uzdevumā:

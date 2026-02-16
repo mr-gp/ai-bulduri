@@ -1,7 +1,6 @@
-# 10. uzdevums – AI palīgs manā kabatā 📱
+# 🎯 Uzdevums 10 – MI palīgs manā kabatā
 
 ## 🎯 Mērķis
-
 Pieredzēt, ka mākslīgais intelekts nav tikai darbam pie datora –  
 tas var kļūt par ikdienas palīgu tavā telefonā.
 
@@ -10,7 +9,7 @@ tas var kļūt par ikdienas palīgu tavā telefonā.
 - Uzinstalēt **Google Gemini** lietotni telefonā.
 - Ielogoties ar savu Google kontu.
 - Atrast un atkārtot dažus no šodien darītajiem uzdevumiem mobilajā ierīcē.
-- Saprast, kā AI var palīdzēt ikdienas situācijās.
+- Saprast, kā MI var palīdzēt ikdienas situācijās.
 
 ---
 
@@ -45,7 +44,7 @@ Sagatavo īsu e-pastu kolēģim par tikšanās pārcelšanu.
 Kādi ir pozitīvi notikumi Latvijā pēdējā mēneša laikā? Pievieno saites.
 
 ### 📊 Ideju ģenerēšana
-Iedod 5 idejas, kā izmantot AI izglītības iestādē.
+Iedod 5 idejas, kā izmantot MI izglītības iestādē.
 
 ### 📷 Attēla analīze
 Nofotografējiet:

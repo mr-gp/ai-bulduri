@@ -1,157 +1,112 @@
-# 🧠 9. uzdevums – Izveido savu Custom Gem
+# 🎯 Uzdevums 9 – Izveido savu Gamma prezentāciju ar MI palīdzību
 
-## 🎯 Uzdevuma mērķis
+## 🎯 Mērķis
+Praktiski pielietot uzvedņu veidošanas prasmes, lai ar Gemini palīdzību izveidotu kvalitatīvu Gamma prezentācijas uzvedni un sagatavotu 10 slaidu prezentāciju par lietotāja izvēlētu tēmu.
 
-Izveidot savu **Gem robotu (pielāgotu MI palīgu)** un pārbaudīt, tas stādā.
-Tiek nodefinēti:
-- ir skaidri definēta loma
-- ir noteikts tvērums
-- ir konkrēts atbildes stils
-- ir definēts mērķis
-
-Šī uzdevuma būtība nav sarežģīts saturs. Būtība ir saprast, kā darbojas Gem romota personalizācija un uzvednes atkārtota izmantošana.
+Šis uzdevums apvieno:
+- uzvedņu sagatavošanu,
+- struktūras domāšanu,
+- darba mērķa definēšanu,
+- rezultāta kvalitātes izvērtēšanu.
 
 ---
 
-# 🛠 9.1. Izveido jaunu Gem romotu
+## 🧠 1. solis – Izvēlies tēmu
 
-1. Atver Gemini.
-2. Izvēlies **Gem roboti -> + Jauns Gem robots**.
-(skat. nākamajā sadaļā vienkāršu piemēru)
-4. Piešķir nosaukumu un īsu parkastu.
-5. Izveido uzvedni sadaļā "Norādījumi".
+Izvēlies sev aktuālu tēmu. Tā var būt:
 
----
+- Ar darbu saistīta tēma (piemēram, klientu apkalpošana, projektu vadība, drošība darbā)
+- Ar hobiju saistīta tēma (piemēram, dārzkopība, sports, ceļošana)
+- Izglītības tēma
+- Personīgās produktivitātes tēma
+- Tehnoloģiju vai inovāciju tēma
 
-# 📝 9.2. Vienkāršs praktisks piemērs
-
-## Nosaukums:
-
-```
-Praktiskais biroja palīgs
-```
-
-## 📌 "Norādījumi" laukā ievieto šo uzvedni:
-
-```
-Tu esi praktisks biroja darba konsultants.
-Tavs uzdevums ir palīdzēt darbiniekiem:
-- uzlabot produktivitāti,
-- sakārtot domas,
-- sagatavot e-pastus,
-- strukturēt uzdevumus.
-Atbildes:
-- raksti latviešu valodā,
-- izmanto skaidru un vienkāršu valodu,
-- ja iespējams, sniedz konkrētus piemērus,
-- ja jautājums ir pārāk vispārīgs, uzdod precizējošu jautājumu.
-Neraksti teorētiskas esejas.
-Koncentrējies uz praktisku pielietojumu.
-```
-
-Saglabā Gem.
+📌 Svarīgi: izvēlies tēmu, par kuru būtu interesanti stāstīt 5–10 minūtes.
 
 ---
 
-# 🧪 9.3. Testē savu Gem
+## 🤖 2. solis – Izveido Gamma uzvedni ar Gemini palīdzību
 
-Atrodi savu izveidoto Gem sadaļā "Gem roboti".
-Izmēģini vairākas sarunas.
-
-## Piemērs 1
-
-Uzsāc jaunu sarunu šajā Gem:
+Atver Gemini un uzraksti uzdevumu, piemēram:
 
 ```
-Man ir pārāk daudz e-pastu un nevaru saprast, ar ko sākt.
+> Izveido detalizētu uzvedni Gamma prezentācijas sagatavošanai par tēmu: "[TAVA TĒMA]".  
+> Prezentācijai jābūt 10 slaidiem.  
+> Norādi katra slaida virsrakstu un īsu aprakstu, ko iekļaut.  
+> Auditorija: [norādi auditoriju].  
+> Tonis: profesionāls, bet saprotams.  
+> Iekļauj praktiskus piemērus.  
+> Prezentācija latviešu valodā.
 ```
 
-## Piemērs 2
-
-Uzsāc jaunu sarunu šajā Gem:
-
-```
-Sagatavo man īsu atbildi klientam, kurš kavē maksājumu.
-```
-
-## Piemērs 3
-
-Uzsāc jaunu sarunu šajā Gem:
-
-```
-Man ir 5 uzdevumi, bet nezinu, kuru darīt pirmo.
-```
+### 🔎 Papildini uzvedni ar sevi interesējošu informāciju, piemēram ar:
+- Mērķauditoriju
+- Vēlamo detalizācijas līmeni
+- Vai nepieciešami piemēri
+- Vai vajadzīgi statistikas dati
 
 ---
 
-# 🔍 9.4. Salīdzinājuma eksperiments
+## 🛠 3. solis – Uzlabo uzvedni (iterācija)
 
-1. Uzdod to pašu jautājumu:
-   - Custom Gem
-   - Parastajā Gemini čatā
+Pēc pirmās atbildes:
 
-2. Salīdzini:
-   - Vai tonis atšķiras?
-   - Vai struktūra ir citāda?
-   - Vai atbildes ir praktiskākas?
-  
-> Ņem vērā, ka iespējams pievienot papildus zināšanas piemēram dokumentus, pie Gem rediģēšnas sadaļā "Zināšanas".
+- Precizē slaidu struktūru
+- Lūdz padarīt saturu konkrētāku
+- Lūdz pievienot praktiskus piemērus
+- Lūdz pievienot vienu kopsavilkuma slaidu
+- Lūdz pievienot vienu diskusijas slaidu
 
----
-
-# 🧠 9.5. Uzlabojuma iterācija
-
-Tagad uzlabo sava Gem instrukciju.
-
-Piemēram, pievieno:
-
-```
-Papildus instrukcijas:
-- Vienmēr strukturē atbildi 3 soļos.
-- Vienmēr beigās uzdod vienu precizējošu jautājumu.
-- Ja iespējams, piedāvā arī alternatīvu risinājumu.
-```
-
-Saglabā un pārbaudi, kā mainās rezultāts uzsākot jaunu sarunu šajā Gem.
+Atceries: pirmā atbilde nav gala rezultāts.
 
 ---
 
-# 💡 9.6. Papildu idejas (ja ir laiks)
+## 🎨 4. solis – Izmanto Gamma
 
-Vari izveidot arī savu tematisko Gem:
-
-- Dārzkopības konsultants
-- Projektu vadības palīgs
-- Sociālo tīklu satura ideju ģenerators
-- Sapulču kopsavilkuma veidotājs
-- Personīgais mācību asistents
-
-Svarīgi:  
-Uzdevums nav perfekta konfigurācija.  
-Uzdevums ir saprast, ka MI uzvedība ir vadāma.
+1. Atver [Gamma](https://gamma.app/).
+2. Piesakies ar savu Google kontu un izveido lietotāju (ja tāds nav bijis iepriekš izveidots).
+3. Ja vēlies pārslēdz saskarni uz latviešu valodu (saskarnes kreisajā pusē apakšā uz apaļās lietotāja ikonas nospiežot redzama patreizējā valoda, ko var noaminīt).
+4. Atrodi jaunas Gammas (prezentācijas) izveides opciju (+ Izveidot jaunu MI)
+5. Izvēlies pirmo un ieteicamo opciju "Izveidot"
+6. Atstāj "Prezentācija", izvēlies 10 kartes (slaidi), Latviešu prezentācijas valodu, un Kartes izmēru piemēram 16:9
+8. Iekopē Gemini sagatavoto uzvedni iekš uzvednes ievades loga "Aprakstiet, ko vēlies izveidot".
+9. Sekojot instrukcijām un norādēm, iepazīsties un pielāgo papildus opcijas atbilstoši interesēm un spied "Izveidot".
+10. Ģenerē prezentāciju
 
 ---
 
-# 🛑 Drošības atgādinājums
+## ✏ 5. solis – Apskati un novērtē rezultātu
 
-Custom Gem instrukcijās neievadi:
+- Vai slaidi ir loģiskā secībā?
+- Vai nav pārāk daudz teksta?
+- Vai piemēri ir konkrēti?
+- Vai auditorijai tas būs saprotami?
+- Vai prezentācijai ir skaidrs sākums un noslēgums?
 
-- paroles, personas datus, u.c. sensitīvu informāciju
+Gamma rīks piedāvā ļoti plašas un elastīgas iespējas veikt dažādus papildus labojumus, taču tas nav galvenais mērķis šajās mācībās.
+
+---
+
+## 💬 6. solis – Eksportē uz sev vēlamo papildus formātu
+
+Gamma app vidē pie izveidotās prezentācijas atrodi eksportēšanas opcijas (skat. trīspunkte ekrāna labajā augšējā stūrī), un pamēģini eksportēt kādā no pieejamiem formātiem, piemēram PDF vai PowerPoint.
+
+---
+## 💬 7. solis – Refleksija
+
+Atbildi sev:
+
+- Kas uzvednē ietekmēja gala rezultātu visvairāk?
+- Vai Gamma rezultāts atbilda sākotnējam mērķim?
+- Ko nākamreiz uzrakstītu citādi?
 
 ---
 
-# 📌 Galvenā atziņa
+### 🏁 Rezultāts
 
-Custom Gem ļauj:
+Katram dalībniekam:
+- Iegūta pieredze ar Google konta izmantošanu un reģistrāciju jaunā MI rīkā, tajā skaitā dažādu sākotnējo iestatījumu izveidošanu.
+- 1 gatava 10 slaidu prezentācija.
+- Izpratne par uzvednes nozīmi.
+- Pieredze darbā ar Gamma App.
 
-- automatizēt atkārtojošus uzdevumus
-- standartizēt atbildes stilu
-- izveidot personalizētu darba palīgu
-- ietaupīt laiku
-
-# Neliela retrospekcija
-
-- Kā vērtē šādas iespējas lietderību?
-- Kādas varētu būt 3 pirmās idejas, kur šāda iespēja varētu būt noderīga?
-
----
