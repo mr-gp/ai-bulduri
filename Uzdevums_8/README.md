@@ -16,7 +16,7 @@ Tiks nodefinēti:
 
 ---
 
-# 🛠 8.1. Izveido jaunu Gem romotu
+# 🛠 8.1. Izveido jaunu Gem robotu
 
 1. Atver Gemini.
 2. Izvēlies **Gem roboti -> + Jauns Gem robots**.

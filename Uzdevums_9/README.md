@@ -67,7 +67,7 @@ Atceries: pirmā atbilde nav gala rezultāts.
 
 1. Atver [Gamma](https://gamma.app/).
 2. Piesakies ar savu Google kontu un izveido lietotāju (ja tāds nav bijis iepriekš izveidots).
-3. Ja vēlies pārslēdz saskarni uz latviešu valodu (saskarnes kreisajā pusē apakšā uz apaļās lietotāja ikonas nospiežot redzama patreizējā valoda, ko var noaminīt).
+3. Ja vēlies pārslēdz saskarni uz latviešu valodu (saskarnes kreisajā pusē apakšā uz apaļās lietotāja ikonas nospiežot redzama patreizējā valoda, ko var nomainīt).
 4. Atrodi jaunas Gammas (prezentācijas) izveides opciju (+ Izveidot jaunu MI)
 5. Izvēlies pirmo un ieteicamo opciju "Izveidot"
 6. Atstāj "Prezentācija", izvēlies 10 kartes (slaidi), Latviešu prezentācijas valodu, un Kartes izmēru piemēram 16:9
