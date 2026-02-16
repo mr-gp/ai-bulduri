@@ -10,7 +10,7 @@
 
 Atver: https://gemini.google.com/
 
-Pieslēdzies ar savu Google kontu (ja prasa).
+Pieslēdzies ar savu Google kontu (vai pārliecinies, ka esi jau pieslēdzies - to var redzēt loga labējā augšējā pusē atverot riņķa formas lietotāja navigācijas izvēlni).
 
 ---
 
@@ -34,14 +34,20 @@ Atrodi:
 
 ---
 
-## 4. Pirmais vienkāršais jautājums (sadzīvisks piemērs)
+## 4. Pirmais vienkāršais jautājums
 
 Uzsāc jaunu sarunu un uzdod vienu vienkāršu jautājumu.
 
 Izvēlies vienu (vai izdomā savu):
-- Ko pagatavot vakariņās no kartupeļiem, olām un siera 20 minūtēs?
-- Kā pareizi iztīrīt tējkannu no kaļķakmens, ja mājās ir tikai etiķis un soda?
-- Kā sakārtot skapi, lai drēbes būtu vieglāk atrast, ja ir maz vietas?
+```
+Ko pagatavot vakariņās no kartupeļiem, olām un siera 20 minūtēs?
+```
+```
+Kā pareizi iztīrīt tējkannu no kaļķakmens, ja mājās ir tikai etiķis un soda?
+```
+```
+Kā sakārtot skapi, lai drēbes būtu vieglāk atrast, ja ir maz vietas?
+```
 
 ---
 
@@ -49,7 +55,7 @@ Izvēlies vienu (vai izdomā savu):
 
 Uzsāc **New chat** un ielīmē:
 
-```text
+```
 Tu esi praktisks virtuves palīgs.
 Man ir: kartupeļi, olas, siers, sīpols, sāls, pipari, eļļa.
 Mērķis: ātras vakariņas 2 cilvēkiem 25 minūtēs.
