@@ -10,11 +10,11 @@ un iemācīties tos efektīvi un droši izmantot ikdienas darbā.
 
 ## 📌 Kam paredzēts šis repozitorijs
 
-- Apmācību dalībniekiem prezentāciju un praktisko nodarbību laikā  
-- Patstāvīgai vingrināšanai pēc apmācībām
-- Kā iedvesmas avots idejām, kā MI var palīdzēt dažādās darba situācijās
+- Apmācību dalībniekiem prezentāciju un praktisko nodarbību laikā.
+- Patstāvīgai vingrināšanai pēc apmācībām.
+- Kā iedvesmas avots idejām, kā MI var palīdzēt dažādās darba situācijās.
 
-Šis **nav programmēšanas kurss** un neprasa tehniskas priekšzināšanas.
+Šis **nav programmēšanas kurss** un tas neprasa tehniskas priekšzināšanas.
 
 ---
 
@@ -105,10 +105,10 @@ kas nodrošina ērtāku un interaktīvāku mācību procesu.
 ⚠️ **Svarīgi ievērot**  
 
 Strādājot ar MI rīkiem apmācību uzdevumos:
-- **Neizmantojiet** reālus personas datus
-- **Neizmantojiet** sensitīvu vai konfidenciālu informāciju
+- **Neizmanto** reālus personas datus
+- **Neizmanto** sensitīvu vai konfidenciālu informāciju
 
-Ja nepieciešami piemēri, izmantojiet **izdomātus, anonimizētus vai publiskus datus**.
+Ja nepieciešami piemēri, izmanto **izdomātus, anonimizētus vai publiskus datus**.
 
 ---
 
@@ -116,31 +116,33 @@ Ja nepieciešami piemēri, izmantojiet **izdomātus, anonimizētus vai publiskus
 
 Mācību pamatā ir praktiska un lietišķa pieeja:
 
-- **MI kā biznesa rīks** – mākslīgais intelekts ir efektivitātes palielinātājs, nevis automatizēts risinājums
-- **Kvalitāte atkarīga no ievades** – precīzi formulēti jautājumi un konteksts nodrošina vērtīgus rezultātus  
-- **Atbildīga lietošana** – galīgā atbildība par MI radīto saturu un lēmumiem vienmēr ir lietotājam
-- **Kritiskā domāšana** – MI rezultāti ir jāizvērtē, jāvalidē un jāpielāgo konkrētai situācijai  
+- **Teorija** - lai sniegtu labāku prikešstatu par MI un cilvēka sadarbes princiem, nodarbībās tiek ietverta neliela teorētiskā bāze.
+- **Pirmkārt principi ne konkrēti MI rīki** – tiek apgūti MI rīku pamatproncipi, kas ir universāli pielietojami.
+- **Google Gemini ir piemērs** - mācībās izmantotais Google Gemini ir piemērs un nav nav iecerēts kā autora rekomendācija konkrēta MI rīka izvēlē.
+- **Kvalitāte atkarīga no ievades** – precīzi formulēti jautājumi un konteksts nodrošina vērtīgus rezultātus.
+- **Atbildīga lietošana** – galīgā atbildība par MI radīto saturu un lēmumiem vienmēr ir lietotājam.
+- **Kritiskā domāšana** – MI rezultāti ir jāizvērtē, jāvalidē un jāpielāgo konkrētai situācijai.
 
 ---
 
 ## 👤 Autors
 
-Apmācības un materiālus sagatavojis  **Gatis Praličs** – informācijas sistēmu arhitekts ar vairāk nekā 20 gadu pieredzi IT nozarē,
-specializējoties infomrācijas sistēmu uzbūvē, datos un mākslīgajā intelektā.
+Mācību un materiālu autors  **Gatis Praličs**.
+E-pasts: gatis.pralics@gmail.com
 
 ---
 
 ## 📚 Noderīgi resursi (Šis var tikt papildināts)
 
-- [Google Gemini](https://gemini.google.com/) – Izmantotā MI platforma šajās mācībās
-- [ChatGPT](https://chat.openai.com/) – Alternatīvs MI rīks, kuru arī var izmantot
-- [Microsoft Copilot](https://copilot.microsoft.com/) – Integrēts Microsoft ekosistēmā
-- [Gamma](https://gamma.app/) – Prezentāciju izveides rīks ar MI atbalstu
-- [GitHub](https://github.com/) – Plaši izmantots MI rīks informācijas sistēmu izstrādes automatizācijai
+- [Google Gemini](https://gemini.google.com/) – Izmantotā MI platforma šajās mācībās.
+- [ChatGPT](https://chat.openai.com/) – Alternatīvs MI rīks, kuru arī var izmantot.
+- [Microsoft Copilot](https://copilot.microsoft.com/) – MI rīks, kas integrēts Microsoft ekosistēmā.
+- [Gamma](https://gamma.app/) – Prezentāciju izveides rīks ar MI atbalstu.
+- [GitHub](https://github.com/) – MI rīks informācijas sistēmu izstrādes automatizācijai.
+- [Perplexity AI](https://perplexity.ai/) – Plaši izmantots MI rīks informācijas meklēšanai internetā.
 
 ---
 
 ## 💡 Piezīme
 
-Repozitorijs tiek regulāri papildināts un uzlabots. 
-Ja rodas jautājumi vai neskaidrības – tas ir labs sākumpunkts diskusijai ar apmācību vadītāju.
+Repozitorija saturs var tikt papildināts (pēdējo reizi papildināts 16.02.2026).
