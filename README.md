@@ -40,7 +40,7 @@ Apmācībās kā galvenais rīks tiek izmantots **Google Gemini**, taču pieliet
 
 Repozitorijs ir organizēts sekojošā veidā:
 
-- **README.md** – šis dokuments ar vispārēju informāciju un mācību saturu un plānu
+- **README.md** – šis dokuments ar vispārēju informāciju, mācību plānu un saturu
 - **Uzdevums_1** līdz **Uzdevums_10** – mapes, kas satur praktiskos uzdevumus
 
 Katra uzdevuma mapē atrodas:
