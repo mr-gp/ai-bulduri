@@ -1,4 +1,4 @@
-# MI mācību infomācijas, materiālu un praktisko uzdevumu repozitorijs
+# MI mācību informācijas, materiālu un praktisko uzdevumu repozitorijs
 
 Šis repozitorijs satur:
 - Vispārēju infomrāciju par MI mācībām
