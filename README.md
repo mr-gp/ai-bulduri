@@ -1,7 +1,7 @@
 # MI mācību infomācijas, materiālu un praktisko uzdevumu repozitorijs
 
 Šis repozitorijs satur:
-- Vispārēju infomračiju par MI mācībām
+- Vispārēju infomrāciju par MI mācībām
 - Mācību materiālus
 - Praktiskos uzdevumus, palīgmateriālus un piemērus.
 
