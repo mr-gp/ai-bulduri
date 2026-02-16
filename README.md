@@ -42,6 +42,10 @@ Katra uzdevuma mapē atrodas:
 - `README.md` fails ar uzdevuma aprakstu
 - Papildu materiāli (ja nepieciešams)
 
+Paredzēts, ka tipiskā mācību scenārijā uzdevumi ir izpildāmi secīgi no 1 līdz 10.
+
+Orientējošs laiks katra uzdevuma izpildei 20 minūtes, t.sk. norādes no instruktora, diskusiju, jautājumus un atbildes.
+
 ### 📋 Uzdevumu saraksts
 
 1. **[Uzdevums 1](./Uzdevums_1/README.md)** – Iepazīšanās ar Google Gemini (saruna ar MI)
@@ -80,7 +84,7 @@ Nav "pareizu" vai "nepareizu" atbilžu – svarīgs ir **process, eksperimentē�
 | Laiks           | Formāts         | Tēmas                                          |
 |-----------------|-----------------|------------------------------------------------|
 | 10:00–11:30     | Prakse          | Praktiskās nodarbība, turpinājums<br>Jautājumi / atbildes |
-| 11:30–12:00     | Teorija          | MI pielietojums biznesa automatizācijai<br>Jautājumi / atbildes |
+| 11:30–12:00     | Teorija         | MI pielietojums biznesa automatizācijai<br>Jautājumi / atbildes |
 | 12:00–13:00     | Pārtraukums     | —                                              |
 | 13:00–15:00     | Brīvā forma     | Rezervēts laiks<br>Jautājumi/atbildes<br>Brīva formāta debates |
 
