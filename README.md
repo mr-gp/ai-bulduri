@@ -9,7 +9,7 @@
 
 Mērķis ir dot dalībniekiem iespēju **praktiski izmēģināt MI rīkus**, saprast to iespējas un iemācīties tos efektīvi un droši izmantot ikdienas darbā.
 
-Repozitorija struktūra ir izveidota tādā veidā, lai sniegtu dalībniekiem elsatīgas iespējas sekot līdzi mācību procesam, pastāvīgi iepazīties ar informāciju, un atbilstoši nepieciešamībai pastāvīgi veikt praktiskos uzdevumus un pielāgot mācību tempu individuālam mācību tempam.
+Repozitorija struktūra ir izveidota tādā veidā, lai sniegtu dalībniekiem elsatīgas iespējas sekot līdzi mācību procesam, pastāvīgi iepazīties ar informāciju, un atbilstoši nepieciešamībai pastāvīgi veikt praktiskos uzdevumus un individuāli pielāgot mācību tempu.
 
 ---
 
