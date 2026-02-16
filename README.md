@@ -1,9 +1,9 @@
 # MI mācību infomācijas, materiālu un praktisko uzdevumu repozitorijs
 
 Šis repozitorijs satur:
-- Vispārēju infomrāciju par MI mācībām;
-- Mācību materiālus;
-- Praktiskos uzdevumus, palīgmateriālus un piemērus.
+- Vispārēju infomrāciju par MI mācībām
+- Mācību materiālus
+- Praktiskos uzdevumus, palīgmateriālus un piemērus
 
 Šī informācija tiek izmantota klātienes apmācībās **“Mākslīgā intelekta (MI) rīku izmantošana ikdienas darbam un biznesam”**, kā arī tā ir pieejama konkrētu laika periodu pēc ampācību norises.
 
@@ -15,9 +15,9 @@ Repozitorija struktūra ir izveidota tādā veidā, lai sniegtu dalībniekiem el
 
 ## 📌 Kam paredzēts šis repozitorijs
 
-- Mācību dalībniekiem prezentāciju un praktisko nodarbību laikā.
-- Patstāvīgai vingrināšanai pēc apmācībām.
-- Kā iedvesmas avots idejām, kā MI var palīdzēt dažādās darba situācijās.
+- Mācību dalībniekiem prezentāciju un praktisko nodarbību laikā
+- Patstāvīgai vingrināšanai pēc apmācībām
+- Kā iedvesmas avots idejām, kā MI var palīdzēt dažādās darba situācijās
 
 Šis **nav programmēšanas kurss** un tas neprasa tehniskas priekšzināšanas.
 
@@ -40,16 +40,16 @@ Apmācībās kā galvenais rīks tiek izmantots **Google Gemini**, taču pieliet
 
 Repozitorijs ir organizēts sekojošā veidā:
 
-- **README.md** – šis dokuments ar vispārēju informāciju un apmācību plānu
+- **README.md** – šis dokuments ar vispārēju informāciju un mācību saturu un plānu
 - **Uzdevums_1** līdz **Uzdevums_10** – mapes, kas satur praktiskos uzdevumus
 
 Katra uzdevuma mapē atrodas:
 - `README.md` fails ar uzdevuma aprakstu
-- Papildu materiāli (ja nepieciešams)
+- Papildu materiāli (ja tādi ir nepieciešami uzdevuma izpildei)
 
 Paredzēts, ka tipiskā mācību scenārijā uzdevumi ir izpildāmi secīgi no 1 līdz 10.
 
-Orientējošs laiks katra uzdevuma izpildei 20 minūtes, t.sk. norādes no instruktora, diskusiju, jautājumus un atbildes.
+Orientējošs laiks katra uzdevuma izpildei ir 20 minūtes, šis laiks ietver arī norādes no instruktora, diskusiju, jautājumus un atbildes.
 
 ### 📋 Uzdevumu saraksts
 
@@ -67,7 +67,7 @@ Orientējošs laiks katra uzdevuma izpildei 20 minūtes, t.sk. norādes no instr
 ### 🛠 Kā strādāt ar uzdevumiem
 
 1. Atver konkrēto uzdevuma mapi (piemēram, `Uzdevums_1`)
-2. Izlasi uzdevuma aprakstu `README.md` failā
+2. Izlasi uzdevuma aprakstu `README.md` failā (`README.md` fails atveras lasīšanai noklusēti, atverot katru konkrēto mapi)
 3. Izpildi uzdevumu savā izvēlētajā MI rīkā (Gemini, ChatGPT vai cits)
 4. Eksperimentē, maini uzvednes un salīdzini rezultātus
 5. Analizē, kā dažādi pieejas veidi ietekmē rezultātu
@@ -136,7 +136,7 @@ Mācību pamatā ir praktiska un lietišķa pieeja:
 
 ## 👤 Autors
 
-Mācību un materiālu autors  **Gatis Praličs**.
+Mācību satura un materiālu autors  **Gatis Praličs**.
 E-pasts: gatis.pralics@gmail.com
 
 ---
