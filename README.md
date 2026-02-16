@@ -132,7 +132,7 @@ E-pasts: gatis.pralics@gmail.com
 
 ---
 
-## 📚 Noderīgi resursi (Šis var tikt papildināts)
+## 📚 Noderīgi resursi
 
 - [Google Gemini](https://gemini.google.com/) – Izmantotā MI platforma šajās mācībās.
 - [ChatGPT](https://chat.openai.com/) – Alternatīvs MI rīks, kuru arī var izmantot.
