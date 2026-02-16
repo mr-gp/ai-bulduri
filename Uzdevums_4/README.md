@@ -6,6 +6,8 @@
 - Saprast, kā konteksts un detaļas ietekmē rezultātu.
 - Droši un atbildīgi izmantot attēlu ģenerēšanas iespējas.
 
+Tu jau esi apguvis teksta veidošanu ar MI. Tagad izmēģināsim MI spējas radīt vizuālu saturu – attēlus. Uzvedņu rakstīšanas prasmes, ko iemācījies iepriekšējos uzdevumos, būs noderīgas arī šeit.
+
 ---
 
 ## 4.1. daļa – Gatavs prompts (copy–paste)

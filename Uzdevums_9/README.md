@@ -3,6 +3,8 @@
 ## 🎯 Mērķis
 Praktiski pielietot uzvedņu veidošanas prasmes, lai ar Gemini palīdzību izveidotu kvalitatīvu Gamma prezentācijas uzvedni un sagatavotu 10 slaidu prezentāciju par lietotāja izvēlētu tēmu.
 
+Tu jau esi apguvis dažādas MI prasmes – no teksta līdz datiem. Tagad izmantosim visas šīs zināšanas, lai izveidotu profesionālu prezentāciju. Šis uzdevums parādīs, kā MI var palīdzēt ne tikai ar saturu, bet arī ar tā vizuālo noformējumu.
+
 Šis uzdevums apvieno:
 - uzvedņu sagatavošanu,
 - struktūras domāšanu,

@@ -1,15 +1,18 @@
-# 🧠 8. uzdevums – Izveido savu Custom Gem
+# 🎯 Uzdevums 8 – Izveido savu Custom Gem
 
-## 🎯 Uzdevuma mērķis
+## 🎯 Mērķis
 
-Izveidot savu **Gem robotu (pielāgotu MI palīgu)** un pārbaudīt, tas stādā.
-Tiek nodefinēti:
-- ir skaidri definēta loma
-- ir noteikts tvērums
-- ir konkrēts atbildes stils
-- ir definēts mērķis
+Izveidot savu **Gem robotu (pielāgotu MI palīgu)** un pārbaudīt, kā tas strādā.
 
-Šī uzdevuma būtība nav sarežģīts saturs. Būtība ir saprast, kā darbojas Gem romota personalizācija un uzvednes atkārtota izmantošana.
+Līdz šim tu esi izmantojis MI dažādiem uzdevumiem, katrreiz rakstot jaunas uzvednes. Tagad iemācīsimies izveidot savu personalizētu MI palīgu, kuram ir iepriekš definēta loma un uzvedība. Tas ļaus ietaupīt laiku un standartizēt darbu.
+
+Tiks nodefinēti:
+- skaidri definēta loma
+- noteikts tvērums
+- konkrēts atbildes stils
+- definēts mērķis
+
+Šī uzdevuma būtība nav sarežģīts saturs. Būtība ir saprast, kā darbojas Gem robota personalizācija un uzvednes atkārtota izmantošana.
 
 ---
 

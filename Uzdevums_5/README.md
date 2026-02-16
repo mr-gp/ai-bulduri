@@ -5,6 +5,8 @@
 - Saņemt rezultātus **ar avotu saitēm**.
 - Salīdzināt dažādus MI meklēšanas rīkus.
 
+Līdz šim tu esi izmantojis MI satura veidošanai. Tagad apgūsim citu svarīgu MI lietojumu – informācijas meklēšanu. MI var būt ne tikai satura radītājs, bet arī "gudrāks" meklētājs.
+
 ---
 
 ## 1. daļa – īsa meklēšanas frāze (piemērs)

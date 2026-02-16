@@ -5,6 +5,8 @@ Izmantot mākslīgā intelekta rīku kā **uzmanīga jurista palīgu**, lai savl
 potenciālus riskus, neskaidrības un problemātiskus formulējumus publiskā iepirkuma
 līguma projektā, pirms tie rada problēmas iepirkuma procesā vai līguma izpildē.
 
+Iepriekšējos uzdevumos tu esi iemācījies strādāt ar MI tekstu un informācijas meklēšanā. Tagad pielietosim šīs prasmes sarežģītākam uzdevumam – juridiska dokumenta analīzei. MI var palīdzēt pamanīt detaļas, kas citādi varētu palikt nepamanītas.
+
 Uzdevuma fokuss nav juridiska lēmuma pieņemšana, bet **riska agrīna identificēšana**
 un domāšanas paplašināšana.
 

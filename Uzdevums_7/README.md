@@ -3,10 +3,12 @@
 ## 🎯 Mērķis
 Praktiski iemācīties izmantot MI rīkus datu analīzei, neiedziļinoties statistikā vai programmēšanā.
 
-Uzdevuma laikā dalībnieki:
-- sapratīs, **kādi dati viņiem ir pieejami**,
+Pēc dokumentu un informācijas apstrādes apgūšanas, tagad pievērsīsimies datu analīzei. MI var palīdzēt izprast datus un identificēt tendences, nepieprasot tehniskas zināšanas.
+
+Uzdevuma laikā tu:
+- sapratīsi, **kādi dati tev ir pieejami**,
 - iemācīsies **uzdot MI pareizos jautājumus**,
-- izdarīs **praktiskus secinājumus**, kas būtu noderīgi reālā darba situācijā.
+- izdarīsi **praktiskus secinājumus**, kas būtu noderīgi reālā darba situācijā.
 
 Uzdevums imitē ikdienas scenāriju:
 > *“Man ir dati Excel failā, bet man nav skaidrs – ko tie patiesībā nozīmē?”*
