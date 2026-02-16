@@ -7,9 +7,9 @@
 
 Šī informācija tiek izmantota klātienes apmācībās **“Mākslīgā intelekta (MI) rīku izmantošana ikdienas darbam un biznesam”**, kā arī tā ir pieejama konkrētu laika periodu pēc ampācību norises.
 
-Mērķis – dot dalībniekiem iespēju **praktiski izmēģināt MI rīkus**, saprast to iespējas un iemācīties tos efektīvi un droši izmantot ikdienas darbā.
+Mērķis ir dot dalībniekiem iespēju **praktiski izmēģināt MI rīkus**, saprast to iespējas un iemācīties tos efektīvi un droši izmantot ikdienas darbā.
 
-Repsozitorija struktūra ir izveidota tādā veidā, lai sniegtu dalībniekiem elsatīgas iespējas sekot līdzi mācību procesam, pastāvīgi iepazīties ar informāciju, un atbilstoši nepieciešamībai pielāgot mācību tempu un pastāvīgi veikt praktiskos uzdevumus.
+Repozitorija struktūra ir izveidota tādā veidā, lai sniegtu dalībniekiem elsatīgas iespējas sekot līdzi mācību procesam, pastāvīgi iepazīties ar informāciju, un atbilstoši nepieciešamībai pastāvīgi veikt praktiskos uzdevumus un pielāgot mācību tempu individuālam mācību tempam.
 
 ---
 
