@@ -8,7 +8,7 @@
 3) reāla **testēšana ar jautājumiem** un neliela iterācija (uzlabošana),  
 4) **koplietošana ar kolēģi**.
 
-Papildus: sapratīsi, ka **līdzīga funkcionalitāte (roboti + faili/zināšanu bāze)** ir arī citos MI rīkos, bet tās pieejamība var atšķirties atkarībā no platformas un plāna (**bezmaksas / maksas / uzņēmuma licences**).
+Papildus informācija: **līdzīga funkcionalitāte (roboti + faili/zināšanu bāze)** ir arī citos MI rīkos, bet tās pieejamība var atšķirties atkarībā no platformas un plāna (**bezmaksas / maksas / uzņēmuma licences**).
 
 > Instruktors paralēli veidos arī savu Gem robotu un, ja būs nepieciešams, to **koplietos ar mācību dalībniekiem** kā piemēru/atbalstu.
 
