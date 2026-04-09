@@ -173,7 +173,7 @@ Salīdzini “pirms” un “pēc”.
 
 ---
 
-## 🤝 7. Koplietošana ar kolēģi (obligāta)
+## 🤝 7. Koplietošana ar kolēģi
 1) **Koplieto** savu Gem robotu ar vismaz 1 kolēģi (izmanto platformas Share/Invite funkciju).
 2) Palūdz kolēģim:
    - izmēģināt tavu Gem ar 2 jautājumiem,
@@ -186,11 +186,10 @@ Salīdzini “pirms” un “pēc”.
 
 ---
 
-## 📌 Gala rezultāts (ko iesniegt / nodot instruktoram)
-Iesniedz (piem., čatā vai LMS):
+## 📌 Gala rezultāts
 
 1) Gem nosaukums + 1 teikuma apraksts  
-2) Kādu dokumentu izmantoji (nosaukums + avots: “mans dokuments” vai “publiski internetā”)  
+2) Pievienots zināšanu bāzes dokuments
 3) Gem instrukcijas (final versija)  
 4) 2–3 testa jautājumi + īss secinājums (kas strādā / kas nestrādā)  
 5) 1 iterācijas uzlabojums (ko tieši pamainīji instrukcijās)  
