@@ -24,7 +24,7 @@ Pārbaudīt, vai MI vienmēr “redz” dokumentu tāpat kā cilvēks un cik dro
 
 ### ✅ Darbība
 1. Atver failu **`janis.docx`** un īsi to pārlasi (kā cilvēks).
-2. Tad augšupielādē šo dokumentu MI čatā (vai iekopē tekstu, ja strādā tādā režīmā).
+2. Tad augšupielādē šo dokumentu MI čatā.
 3. Uzdod MI šo jautājumu (kopē/ielīmē):
 
 ```
