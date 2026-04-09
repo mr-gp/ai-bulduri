@@ -130,7 +130,7 @@ kas nodrošina ērtāku un interaktīvāku mācību procesu.
 ## Tiešsaistes
 
 - Tiešsaistes: Lai skatītu Google Meet tiešsaisti spiest [šeit](https://meet.google.com/omf-gcsy-uok)
-- 
+
 ---
 
 ## 🔐 Datu drošība un privātums
