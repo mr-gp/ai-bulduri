@@ -127,6 +127,10 @@ kas nodrošina ērtāku un interaktīvāku mācību procesu.
 - 📘 [Uzvedņu sagatavošana](https://gamma.app/docs/l3ppgopdequlyf6) (Lai skatītu tiešsaistē spiest [šeit](https://gamma.app/docs/l3ppgopdequlyf6?following_id=z08afx4h5wtjwun&follow_on_start=true))
 - 📘 [Mākslīgais intelekts biznesa automatizācijā](https://gamma.app/docs/yb5xu0d7wat1wtq) (Lai skatītu tiešsaistē spiest [šeit](https://gamma.app/docs/Maksligais-intelekts-biznesa-automatizacija-yb5xu0d7wat1wtq?following_id=z08afx4h5wtjwun&follow_on_start=true)) 
 
+## Tiešsaistes
+
+- Tiešsaistes: Lai skatītu Google Meet tiešsaisti spiest [šeit](https://meet.google.com/omf-gcsy-uok)
+- 
 ---
 
 ## 🔐 Datu drošība un privātums
