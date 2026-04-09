@@ -139,9 +139,9 @@ Ja jā — kā tas praktiski izskatās noliktavas procesā?
 Ja nē — ko tieši būtu jāprasa piegādātājam/demo laikā?
 ```
 
-### 4) Loģistikas laiks (4,5h → 45 min)
+### 4) Pasūtījuma apstrādes laiks laiks (4,5h → 2h)
 ```
-Mērķis: samazināt pasūtījuma apstrādes laiku no 4,5h līdz 45 min.
+Mērķis: samazināt pasūtījuma apstrādes laiku no 4,5h līdz 2h.
 Pamatojoties uz PDF, kādi procesi/tehnoloģijas var dot lielāko efektu?
 Iedod prioritāšu sarakstu (Top 5) ar īsu pamatojumu.
 ```
@@ -157,7 +157,7 @@ Iedod minimālo aprīkojuma komplektu 3 noliktavām (Rīga/Salaspils/Jelgava) un
 ```
 Uzraksti valdei 1 lappuses kopsavilkumu:
 - problēma (ar skaitļiem),
-- ko dod HansaWorld (pēc PDF),
+- ko dod HansaWorld riinājums (pēc PDF),
 - riski / kas nav skaidrs,
 - ieteicamais nākamais solis (piem., demo, prasību darbnīca, pilotprojekts).
 ```
@@ -236,6 +236,11 @@ B) Ziņojums valdei (1–2 lpp.)
 C) Ieviešanas plāna melnraksts (fāzes, termiņi, resursi, riski, gates)
 ```
 
+Papildus:
+- Veic dažus redakcionālus labojumus.
+- Eksportē rezultātu uz Google Docs.
+- Saglabā dokumentu MIcrosoft Word formātā.
+
 ---
 
 # ✅ Mini-checklist (paškontrole)
@@ -250,7 +255,5 @@ Atzīmē “Jā/Nē”:
 
 ---
 
-# Neliela retrospekcija
-1) Kurā brīdī tu vislabāk ieraudzīji atšķirību starp “Gem bez pietiekamas instrukcijas” un “Gem ar precīziem pieņēmumiem”?  
-2) Kādi 3 jautājumi piegādātājam/demo būtu “must-have”, lai samazinātu risku projektā?  
-3) Kādu nākamo failu (papildu) būtu vērts pievienot Gem zināšanu bāzei, lai atbildes būtu praktiskākas?
+# Neliela retrospekcija 
+1) Kādu nākamo failu (papildu) būtu vērts pievienot Gem zināšanu bāzei, lai atbildes būtu praktiskākas?
