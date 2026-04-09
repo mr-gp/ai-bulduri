@@ -67,20 +67,22 @@ Pārbaudīt, kā MI tiek galā ar sarežģītāku reizināšanu un kāpēc **vie
 ```
 Aprēķini:
 1) 3545 × 866
-2) 9187 × 742
-3) 12093 × 507
+2) 45627 × 546332
 Atbildi ar katra piemēra rezultātu atsevišķā rindā.
 ```
 
 2. Tad **pārrēķini tos pašus piemērus ar kalkulatoru**.
-3. Salīdzini rezultātus.
+3. Salīdzini rezultātus. Dažos gadījumos rezultāti var sakrist, bet dažos var atšīrties (!)
 
 ### ✅ Ko piefiksēt
 - Vai MI atbildes sakrita ar kalkulatoru 100%?
 - Ja nesakrīt: vai kļūda ir “maza” (daži cipari) vai “liela”?
 - Vai MI atbilde bija pasniegta pārliecinoši, pat ja bija kļūda?
 
-> Mini-atziņa: MI bieži “izskatās pārliecinošs” arī tad, kad atbilde ir nepareiza. Tāpēc skaitļi un fakti jāvalidē.
+### ✅ Ja tomēr neizdevās
+- Izmēģini dažus paša izdomātus piemērus, piemēram, sareizinot skaitļus kuru garums nav mazāks par 4 simboliem.
+
+> Mini-atziņa: MI praktiski vienmēr “izskatās pārliecinošs”, arī tad, ja atbilde ir nepareiza. Tāpēc skaitļi un fakti jāvalidē.
 
 ---
 
