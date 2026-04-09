@@ -27,13 +27,12 @@ Pirms pievieno dokumentu vai raksti instrukcijas:
 Tev jāizdomā Gems, ko tu reāli varētu izmantot darbā vai mācībās. Vari ņemt jebkādu tēmu.
 
 ### Ideju piemēri (vari izmantot vai izdomāt savu)
-- “Sapulču protokolētājs” (no pievienotas sapulces šablona + noteikumiem)
 - “Iekšējo noteikumu skaidrotājs” (no politikas dokumenta)
 - “Projekta plāna asistents” (no projekta šablona + fāzēm)
 - “Mācību materiālu veidotājs” (no lekcijas konspekta vai PDF)
 - “Produkta aprakstu un FAQ ģenerators” (no produkta specifikācijas)
 - “Drošības checklists” (no publiska drošības vadlīniju dokumenta)
-- “CV / motivācijas vēstules uzlabotājs” (no publiskiem ieteikumiem + tavas struktūras prasībām)
+- “Personāla speciālists” (palīgs organizēcijas vajadzībai specifiska amata apraksta ziveidošanā)
 
 ---
 
