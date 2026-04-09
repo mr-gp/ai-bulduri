@@ -111,7 +111,7 @@ Nav "pareizu" vai "nepareizu" atbilžu – svarīgs ir **process, eksperimentē�
 | 09:00–11:30     | Prakse          | Praktiskā nodarbība<br>Tēmas: Informācijas apstrāde, individuālie asistenti, kopsadarbība<br>Jautājumi / atbildes |
 | 11:30–12:00     | Teorija         | Instruktora demonstrācija<br>Papildus rīki<br>ChatGPT ekvivalentu iespēju demonstrācija, Projekti, CustomGPT, Agent Mode, API integrācija, Koda priekšskatīšana, Sample datu ģenerācija, u.c.<br>Perplexity AI informācijas meklēšana<br>Copilot M365, Notebooks, Organizācijas konteksts, Ms Office integrācija, u.c.<br>Jautājumi / atbildes |
 | 12:00–13:00     | Pārtraukums     | —                                              |
-| 13:00–14:00     | Brīvā forma     | Rezervēts laiks turpinājums, Jautājumi / atbildes |
+| 13:00–14:00     |Rezerve     | Rezervēts laiks turpinājums, Jautājumi / atbildes |
 
 ---
 
