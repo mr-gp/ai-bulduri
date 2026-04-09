@@ -1,7 +1,7 @@
 # 🎯 Uzdevums 11 — Custom instrukciju atsvaidzināšana + Custom Gem (atkārtojums)
 
 ## 🎯 Mērķis
-Šī uzdevuma mērķis ir **atsvaidzināt un nostiprināt** prasmes, kas vajadzīgas nākamajiem (advancētākiem) scenārijiem:
+Šī uzdevuma mērķis ir **atsvaidzināt un nostiprināt** iepriekš apgūtas prasmes prasmes, kas noderēs arī advancētākiem scenārijiem:
 
 - Atjaunināt **Custom instrukcijas** (lai MI saprot tavu lomu, darba kontekstu un stilu).
 - **Saglabāt un notestēt** instrukcijas reālā sarunā.
@@ -10,15 +10,12 @@
   - **Custom instrukcijas** (globālais konteksts)
   - **Custom Gem uzvedne** (Gem specifiskais konteksts)
 
-> Šis uzdevums ir apzināti kā atkārtojums. Nākamajā uzdevumā veidosi jau advancētāku Gem ar specifiskākām instrukcijām un pievienotu failu “Zināšanu bāzei”.
-
 ---
 
-## ✅ 0. Sagatavošanās (2 min)
+## ✅ 0. Sagatavošanās
 Pirms sāc, atbildi sev (vari pierakstīt):
 
-- Kāds ir mans **amats**?
-- Kāda ir mana **darbības joma**?
+- Kāda ir mana **darbības joma** vai **amats**?
 - Kādi ir 2–3 tipiski **darba uzdevumi**?
 - Kāds ir mans vēlamais **atbilžu stils**? (īss / strukturēts / ar piemēriem / ar tabulām / ar jautājumiem beigās)
 
@@ -42,7 +39,7 @@ Tās palīdz panākt, ka MI:
 ## ✅ Ko obligāti iekļaut instrukcijās
 Custom instrukcijās norādi vismaz:
 
-1) **Amats** (piem., projektu vadītājs, skolotājs, klientu apkalpošana, uzņēmējs, datu analītiķis utt.)  
+1) Vēlams **Amats** (piem., projektu vadītājs, skolotājs, klientu apkalpošana, uzņēmējs, datu analītiķis utt.)  
 2) **Darbības joma** (piem., izglītība, IT, būvniecība, e-komercija, publiskais sektors…)  
 3) **Darba specifika** (ja ir):  
    - vai strādā ar klientiem,
@@ -209,25 +206,9 @@ Tātad, ja viss strādā:
 ---
 
 ## Testa jautājumi (izvēlies 1–2)
-Uzsāc sarunu tieši savā izveidotajā Gem:
+Uzsāc sarunu tieši savā izveidotajā Gem un ar saviem jautājumiem panāc Custom instrukcijās un Gem robota instrukcijās aprakstīto.
 
-### Piemērs 1 — darbi un termiņi
-```
-Man rīt jāiesniedz atskaite, bet man vēl ir 5 citi uzdevumi.
-Es apjūku, ar ko sākt. Palīdzi sakārtot prioritātes.
-```
-
-### Piemērs 2 — sapulces sagatavošana
-```
-Man jānovada 30 min sapulce par projekta statusu.
-Iedod man struktūru: ko teikt sākumā, kā iziet cauri punktiem un kā noslēgt.
-```
-
-### Piemērs 3 — apmācību uzdevuma sagatavošana
-```
-Man jāizveido 20 min praktisks uzdevums par MI izmantošanu darbā.
-Dalībnieki ir iesācēji. Iedod plānu un piemēru uzvedni.
-```
+Izmēģini dažādās kombinācijās un pārliecinies kā tas darbojas.
 
 ---
 
@@ -242,25 +223,14 @@ Dalībnieki ir iesācēji. Iedod plānu un piemēru uzvedni.
 
 ---
 
-# 🛑 Drošības atgādinājums
-Custom instrukcijās vai Gem norādījumos **neievadi**:
-- paroles,
-- personas kodus,
-- bankas informāciju,
-- klientu sensitīvus datus,
-- konfidenciālus dokumentus.
-
----
-
-# 📌 Galvenā atziņa
+# 📌 Atziņas
 Ja pareizi saliec pamatus:
 - Custom instrukcijas dod **stabilu globālo stilu un kontekstu**,
-- Custom Gem dod **konkrētu lomu/uzvedību konkrētam darbam**,
+- Gem robots dod **konkrētu lomu/uzvedību konkrētam darbam**,
 - un kombinācijā tie ļauj ietaupīt laiku un samazināt “skaidrošanas” vajadzību katrā sarunā.
 
 ---
 
-# Neliela retrospekcija (pieraksti 2–3 teikumos)
+# Neliela retrospekcija
 1) Kas tieši uzlabojās pēc Custom instrukciju atjaunināšanas?  
-2) Kurā scenārijā tev Custom Gem šķiet visnoderīgākais?  
-3) Ko tu gribētu, lai nākamajā Gem versijā izdara automātiski (advancēts scenārijs)?
+2) Kādi varētu būt 2-3 scenāriju, kas ietaupītu laiku parasta čata vietā pielietojot Custom Gem?  
